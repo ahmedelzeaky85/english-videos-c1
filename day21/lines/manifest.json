@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 21,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day21-line001.mp3",
+   "sentence_id": "c1-day21-s01",
+   "en": "What makes a pun work is not the joke itself, but the split second it takes the listener to catch it.",
+   "bytes": 59136
+  },
+  {
+   "line": 2,
+   "file": "day21-line002.mp3",
+   "sentence_id": "c1-day21-s02",
+   "en": "It is said that a pun is the lowest form of wit, usually by people who cannot make one.",
+   "bytes": 58176
+  },
+  {
+   "line": 3,
+   "file": "day21-line003.mp3",
+   "sentence_id": "c1-day21-s03",
+   "en": "Were the sign outside the restaurant to say 'we serve food here', it would be no less honest than most jokes.",
+   "bytes": 62784
+  },
+  {
+   "line": 4,
+   "file": "day21-line004.mp3",
+   "sentence_id": "c1-day21-s04",
+   "en": "However old a joke may be, it is new to anyone hearing it for the first time.",
+   "bytes": 43008
+  },
+  {
+   "line": 5,
+   "file": "day21-line005.mp3",
+   "sentence_id": "c1-day21-s05",
+   "en": "Not until you explain a joke do you realize how much of it lived in the timing.",
+   "bytes": 46272
+  },
+  {
+   "line": 6,
+   "file": "day21-line006.mp3",
+   "sentence_id": "c1-day21-s06",
+   "en": "The comedian's silence, perfectly placed, got a bigger laugh than any of his words.",
+   "bytes": 50688
+  },
+  {
+   "line": 7,
+   "file": "day21-line007.mp3",
+   "sentence_id": "c1-day21-s07",
+   "en": "What children laugh at without reason, adults laugh at with relief.",
+   "bytes": 43776
+  },
+  {
+   "line": 8,
+   "file": "day21-line008.mp3",
+   "sentence_id": "c1-day21-s08",
+   "en": "The translation of the joke, though word-perfect, landed in complete silence.",
+   "bytes": 47616
+  },
+  {
+   "line": 9,
+   "file": "day21-line009.mp3",
+   "sentence_id": "c1-day21-s09",
+   "en": "Little is shared across every culture on Earth except the sound of laughter.",
+   "bytes": 49920
+  },
+  {
+   "line": 10,
+   "file": "day21-line010.mp3",
+   "sentence_id": "c1-day21-s10",
+   "en": "Rarely does a meeting need less laughter, whatever the agenda claims.",
+   "bytes": 41088
+  },
+  {
+   "line": 11,
+   "file": "day21-line011.mp3",
+   "sentence_id": "c1-day21-s11",
+   "en": "What the audience forgives in a comedian is everything except being boring on purpose.",
+   "bytes": 56448
+  },
+  {
+   "line": 12,
+   "file": "day21-line012.mp3",
+   "sentence_id": "c1-day21-s12",
+   "en": "It is the unexpected word in an ordinary sentence that does the work of the whole joke.",
+   "bytes": 57600
+  },
+  {
+   "line": 13,
+   "file": "day21-line013.mp3",
+   "sentence_id": "c1-day21-s13",
+   "en": "Were humor to follow rules, the funniest people alive would be the ones who wrote the rulebook.",
+   "bytes": 56832
+  },
+  {
+   "line": 14,
+   "file": "day21-line014.mp3",
+   "sentence_id": "c1-day21-s14",
+   "en": "Not until you have bombed in front of a silent crowd do you understand why comedians fear nothing else.",
+   "bytes": 65664
+  },
+  {
+   "line": 15,
+   "file": "day21-line015.mp3",
+   "sentence_id": "c1-day21-s15",
+   "en": "However painful the moment, give it a year and it may return as your best story.",
+   "bytes": 46464
+  }
+ ]
+}
