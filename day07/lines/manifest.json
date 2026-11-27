@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 7,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day07-line001.mp3",
+   "sentence_id": "c1-day07-s01",
+   "en": "It has long been assumed that memory works like a recording, yet recent research suggests otherwise.",
+   "bytes": 57792
+  },
+  {
+   "line": 2,
+   "file": "day07-line002.mp3",
+   "sentence_id": "c1-day07-s02",
+   "en": "The study, the findings of which were published last year, challenges everything we thought we knew.",
+   "bytes": 51456
+  },
+  {
+   "line": 3,
+   "file": "day07-line003.mp3",
+   "sentence_id": "c1-day07-s03",
+   "en": "What the data demonstrate is not that the method fails, but that its success depends on conditions we rarely meet.",
+   "bytes": 63936
+  },
+  {
+   "line": 4,
+   "file": "day07-line004.mp3",
+   "sentence_id": "c1-day07-s04",
+   "en": "It is essential that every participant be informed of the risks before the experiment begins.",
+   "bytes": 56448
+  },
+  {
+   "line": 5,
+   "file": "day07-line005.mp3",
+   "sentence_id": "c1-day07-s05",
+   "en": "However convincing a theory may appear, it must be abandoned when the evidence turns against it.",
+   "bytes": 52992
+  },
+  {
+   "line": 6,
+   "file": "day07-line006.mp3",
+   "sentence_id": "c1-day07-s06",
+   "en": "Not until the experiment had been repeated forty times did the journal agree to publish the results.",
+   "bytes": 63360
+  },
+  {
+   "line": 7,
+   "file": "day07-line007.mp3",
+   "sentence_id": "c1-day07-s07",
+   "en": "The conclusion, far from being certain, is little more than a well-supported hypothesis.",
+   "bytes": 60672
+  },
+  {
+   "line": 8,
+   "file": "day07-line008.mp3",
+   "sentence_id": "c1-day07-s08",
+   "en": "Were the sample larger, the findings would carry considerably more weight.",
+   "bytes": 48768
+  },
+  {
+   "line": 9,
+   "file": "day07-line009.mp3",
+   "sentence_id": "c1-day07-s09",
+   "en": "What remains unclear is whether the effect exists outside the laboratory.",
+   "bytes": 56640
+  },
+  {
+   "line": 10,
+   "file": "day07-line010.mp3",
+   "sentence_id": "c1-day07-s10",
+   "en": "Rarely does a single paper change a whole field, but when it does, textbooks are rewritten.",
+   "bytes": 61056
+  },
+  {
+   "line": 11,
+   "file": "day07-line011.mp3",
+   "sentence_id": "c1-day07-s11",
+   "en": "The hypothesis, attractive though it is, rests on data collected from only three hospitals.",
+   "bytes": 60480
+  },
+  {
+   "line": 12,
+   "file": "day07-line012.mp3",
+   "sentence_id": "c1-day07-s12",
+   "en": "What the committee questioned was not the result itself, but the method by which it had been reached.",
+   "bytes": 51456
+  },
+  {
+   "line": 13,
+   "file": "day07-line013.mp3",
+   "sentence_id": "c1-day07-s13",
+   "en": "It is customary in academic writing to cite every source, however small its contribution may seem.",
+   "bytes": 61248
+  },
+  {
+   "line": 14,
+   "file": "day07-line014.mp3",
+   "sentence_id": "c1-day07-s14",
+   "en": "Were the experiment to be repeated under stricter conditions, its conclusions might not survive.",
+   "bytes": 56256
+  },
+  {
+   "line": 15,
+   "file": "day07-line015.mp3",
+   "sentence_id": "c1-day07-s15",
+   "en": "The paper argues, with some justification, that earlier studies had confused correlation with cause.",
+   "bytes": 62592
+  }
+ ]
+}
