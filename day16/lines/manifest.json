@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 16,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day16-line001.mp3",
+   "sentence_id": "c1-day16-s01",
+   "en": "What we call 'normal' is usually nothing more than the habits of the people we grew up around.",
+   "bytes": 57024
+  },
+  {
+   "line": 2,
+   "file": "day16-line002.mp3",
+   "sentence_id": "c1-day16-s02",
+   "en": "It is possible to leave your country without ever leaving your culture, and to lose your culture without ever leaving home.",
+   "bytes": 65280
+  },
+  {
+   "line": 3,
+   "file": "day16-line003.mp3",
+   "sentence_id": "c1-day16-s03",
+   "en": "Were every culture to see itself through a stranger's eyes, the world would quarrel far less.",
+   "bytes": 53184
+  },
+  {
+   "line": 4,
+   "file": "day16-line004.mp3",
+   "sentence_id": "c1-day16-s04",
+   "en": "However global the world becomes, people still dream in the language of their childhood.",
+   "bytes": 54912
+  },
+  {
+   "line": 5,
+   "file": "day16-line005.mp3",
+   "sentence_id": "c1-day16-s05",
+   "en": "Not until you live abroad do you discover which parts of you are you, and which are your country.",
+   "bytes": 59712
+  },
+  {
+   "line": 6,
+   "file": "day16-line006.mp3",
+   "sentence_id": "c1-day16-s06",
+   "en": "It is often the smallest customs - a greeting, a meal, a song - that carry the deepest sense of belonging.",
+   "bytes": 74880
+  },
+  {
+   "line": 7,
+   "file": "day16-line007.mp3",
+   "sentence_id": "c1-day16-s07",
+   "en": "What the immigrant packs last and never unpacks is a way of being polite.",
+   "bytes": 47040
+  },
+  {
+   "line": 8,
+   "file": "day16-line008.mp3",
+   "sentence_id": "c1-day16-s08",
+   "en": "The proverb is said to be the shortest road to a culture's heart.",
+   "bytes": 35712
+  },
+  {
+   "line": 9,
+   "file": "day16-line009.mp3",
+   "sentence_id": "c1-day16-s09",
+   "en": "Little by little, the children of immigrants build a self that belongs fully to neither world and wholly to both.",
+   "bytes": 76800
+  },
+  {
+   "line": 10,
+   "file": "day16-line010.mp3",
+   "sentence_id": "c1-day16-s10",
+   "en": "Rarely does anyone choose their culture, yet everyone is judged by it.",
+   "bytes": 47424
+  },
+  {
+   "line": 11,
+   "file": "day16-line011.mp3",
+   "sentence_id": "c1-day16-s11",
+   "en": "What the third-generation child inherits is not the language of the grandparents but its echo.",
+   "bytes": 57792
+  },
+  {
+   "line": 12,
+   "file": "day16-line012.mp3",
+   "sentence_id": "c1-day16-s12",
+   "en": "It is at weddings and funerals, not in museums, that a culture shows what it truly is.",
+   "bytes": 53568
+  },
+  {
+   "line": 13,
+   "file": "day16-line013.mp3",
+   "sentence_id": "c1-day16-s13",
+   "en": "Were accents to disappear, every language would lose the map of its own history.",
+   "bytes": 46080
+  },
+  {
+   "line": 14,
+   "file": "day16-line014.mp3",
+   "sentence_id": "c1-day16-s14",
+   "en": "Not until we taste another culture's celebrations do we realize that our own are also strange and wonderful.",
+   "bytes": 65664
+  },
+  {
+   "line": 15,
+   "file": "day16-line015.mp3",
+   "sentence_id": "c1-day16-s15",
+   "en": "However modern a society becomes, its oldest stories keep whispering in its newest songs.",
+   "bytes": 55488
+  }
+ ]
+}
