@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 19,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day19-line001.mp3",
+   "sentence_id": "c1-day19-s01",
+   "en": "What a society argues about in public tells you what it values in private.",
+   "bytes": 46272
+  },
+  {
+   "line": 2,
+   "file": "day19-line002.mp3",
+   "sentence_id": "c1-day19-s02",
+   "en": "It is easier to win an election with a slogan than to govern with one.",
+   "bytes": 46464
+  },
+  {
+   "line": 3,
+   "file": "day19-line003.mp3",
+   "sentence_id": "c1-day19-s03",
+   "en": "Were voting alone enough to build a democracy, the world would be full of them.",
+   "bytes": 47808
+  },
+  {
+   "line": 4,
+   "file": "day19-line004.mp3",
+   "sentence_id": "c1-day19-s04",
+   "en": "However unpopular a truth may be, a healthy society must make room for it to be said.",
+   "bytes": 53184
+  },
+  {
+   "line": 5,
+   "file": "day19-line005.mp3",
+   "sentence_id": "c1-day19-s05",
+   "en": "Not until citizens can criticize power without fear is freedom of speech more than a decoration.",
+   "bytes": 53184
+  },
+  {
+   "line": 6,
+   "file": "day19-line006.mp3",
+   "sentence_id": "c1-day19-s06",
+   "en": "The measure of a politician, it is said, is not how they treat their supporters, but how they treat their opponents.",
+   "bytes": 58560
+  },
+  {
+   "line": 7,
+   "file": "day19-line007.mp3",
+   "sentence_id": "c1-day19-s07",
+   "en": "What the crowd demands today, it may punish tomorrow; that is why leadership means more than listening.",
+   "bytes": 65472
+  },
+  {
+   "line": 8,
+   "file": "day19-line008.mp3",
+   "sentence_id": "c1-day19-s08",
+   "en": "The proposal was popular, persuasive, and, on closer inspection, completely unaffordable.",
+   "bytes": 64320
+  },
+  {
+   "line": 9,
+   "file": "day19-line009.mp3",
+   "sentence_id": "c1-day19-s09",
+   "en": "Little is more dangerous to public life than the moment when loyalty replaces honesty.",
+   "bytes": 51840
+  },
+  {
+   "line": 10,
+   "file": "day19-line010.mp3",
+   "sentence_id": "c1-day19-s10",
+   "en": "Rarely does power give up its privileges voluntarily; every right we have was argued for, at length.",
+   "bytes": 62976
+  },
+  {
+   "line": 11,
+   "file": "day19-line011.mp3",
+   "sentence_id": "c1-day19-s11",
+   "en": "What the constitution promises on paper, the courts must defend in practice, or the paper means nothing.",
+   "bytes": 63360
+  },
+  {
+   "line": 12,
+   "file": "day19-line012.mp3",
+   "sentence_id": "c1-day19-s12",
+   "en": "It is the quiet work of compromise, never applauded, that keeps a public life functioning.",
+   "bytes": 54336
+  },
+  {
+   "line": 13,
+   "file": "day19-line013.mp3",
+   "sentence_id": "c1-day19-s13",
+   "en": "Were every promise costed before it was made, election campaigns would be silent affairs.",
+   "bytes": 55872
+  },
+  {
+   "line": 14,
+   "file": "day19-line014.mp3",
+   "sentence_id": "c1-day19-s14",
+   "en": "Not until a law applies equally to those who wrote it does it deserve the name of justice.",
+   "bytes": 55104
+  },
+  {
+   "line": 15,
+   "file": "day19-line015.mp3",
+   "sentence_id": "c1-day19-s15",
+   "en": "However loud the politics becomes, the citizen's daily question remains simple: is my life better this year?",
+   "bytes": 70272
+  }
+ ]
+}
