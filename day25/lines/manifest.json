@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 25,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day25-line001.mp3",
+   "sentence_id": "c1-day25-s01",
+   "en": "What freedom means, if it means anything at all, is the right to tell people what they do not want to hear.",
+   "bytes": 57984
+  },
+  {
+   "line": 2,
+   "file": "day25-line002.mp3",
+   "sentence_id": "c1-day25-s02",
+   "en": "It is often forgotten that every freedom we enjoy was once someone's dangerous idea.",
+   "bytes": 60288
+  },
+  {
+   "line": 3,
+   "file": "day25-line003.mp3",
+   "sentence_id": "c1-day25-s03",
+   "en": "Were we free to do only what is safe, we should call it by another name.",
+   "bytes": 44544
+  },
+  {
+   "line": 4,
+   "file": "day25-line004.mp3",
+   "sentence_id": "c1-day25-s04",
+   "en": "However wide our freedom, it ends where another person's freedom begins.",
+   "bytes": 47232
+  },
+  {
+   "line": 5,
+   "file": "day25-line005.mp3",
+   "sentence_id": "c1-day25-s05",
+   "en": "Not until we accept responsibility for our choices do those choices truly become ours.",
+   "bytes": 58368
+  },
+  {
+   "line": 6,
+   "file": "day25-line006.mp3",
+   "sentence_id": "c1-day25-s06",
+   "en": "It is said that the price of freedom is eternal vigilance; the price of ignoring it is higher.",
+   "bytes": 59712
+  },
+  {
+   "line": 7,
+   "file": "day25-line007.mp3",
+   "sentence_id": "c1-day25-s07",
+   "en": "What the student asked was not whether he could say it, but whether he should - and that is the whole question.",
+   "bytes": 67200
+  },
+  {
+   "line": 8,
+   "file": "day25-line008.mp3",
+   "sentence_id": "c1-day25-s08",
+   "en": "The law can forbid an action, but it cannot forbid the wish; that work belongs to conscience alone.",
+   "bytes": 67776
+  },
+  {
+   "line": 9,
+   "file": "day25-line009.mp3",
+   "sentence_id": "c1-day25-s09",
+   "en": "Little do we value the freedoms that cost us nothing, until the day they are gone.",
+   "bytes": 50112
+  },
+  {
+   "line": 10,
+   "file": "day25-line010.mp3",
+   "sentence_id": "c1-day25-s10",
+   "en": "Rarely is responsibility welcomed; it is usually accepted, quietly, by those who can no longer avoid it.",
+   "bytes": 78528
+  },
+  {
+   "line": 11,
+   "file": "day25-line011.mp3",
+   "sentence_id": "c1-day25-s11",
+   "en": "What the dissenter risks alone today, the majority may quietly thank them for tomorrow.",
+   "bytes": 53184
+  },
+  {
+   "line": 12,
+   "file": "day25-line012.mp3",
+   "sentence_id": "c1-day25-s12",
+   "en": "It is when speaking becomes dangerous that silence stops being neutral.",
+   "bytes": 40128
+  },
+  {
+   "line": 13,
+   "file": "day25-line013.mp3",
+   "sentence_id": "c1-day25-s13",
+   "en": "Were freedom given only to ideas we like, it would be a reward, not a right.",
+   "bytes": 48768
+  },
+  {
+   "line": 14,
+   "file": "day25-line014.mp3",
+   "sentence_id": "c1-day25-s14",
+   "en": "Not until we defend the rights of those we disagree with do we prove that we believe in rights at all.",
+   "bytes": 58368
+  },
+  {
+   "line": 15,
+   "file": "day25-line015.mp3",
+   "sentence_id": "c1-day25-s15",
+   "en": "However heavy the responsibility, it is lighter than the regret of refusing it.",
+   "bytes": 49920
+  }
+ ]
+}
