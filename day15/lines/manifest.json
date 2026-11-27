@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 15,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day15-line001.mp3",
+   "sentence_id": "c1-day15-s01",
+   "en": "What empathy requires is not that we feel the same pain, but that we believe it is real.",
+   "bytes": 55104
+  },
+  {
+   "line": 2,
+   "file": "day15-line002.mp3",
+   "sentence_id": "c1-day15-s02",
+   "en": "It is often the person who laughs the loudest who carries the heaviest heart.",
+   "bytes": 42816
+  },
+  {
+   "line": 3,
+   "file": "day15-line003.mp3",
+   "sentence_id": "c1-day15-s03",
+   "en": "Were we to judge every action by its hidden grief, most anger would look like a call for help.",
+   "bytes": 56832
+  },
+  {
+   "line": 4,
+   "file": "day15-line004.mp3",
+   "sentence_id": "c1-day15-s04",
+   "en": "However hard we try to hide them, our feelings leak out in a hundred small ways every day.",
+   "bytes": 52608
+  },
+  {
+   "line": 5,
+   "file": "day15-line005.mp3",
+   "sentence_id": "c1-day15-s05",
+   "en": "Not until someone has sat with us in silence, without advice, do we feel truly heard.",
+   "bytes": 51072
+  },
+  {
+   "line": 6,
+   "file": "day15-line006.mp3",
+   "sentence_id": "c1-day15-s06",
+   "en": "It is said that courage is not the absence of fear, but the decision that something else matters more.",
+   "bytes": 57600
+  },
+  {
+   "line": 7,
+   "file": "day15-line007.mp3",
+   "sentence_id": "c1-day15-s07",
+   "en": "What children sense instantly, adults often spend years relearning: that feelings are facts of their own kind.",
+   "bytes": 68928
+  },
+  {
+   "line": 8,
+   "file": "day15-line008.mp3",
+   "sentence_id": "c1-day15-s08",
+   "en": "The apology, though only two words long, took him three years to say.",
+   "bytes": 44736
+  },
+  {
+   "line": 9,
+   "file": "day15-line009.mp3",
+   "sentence_id": "c1-day15-s09",
+   "en": "Little do we know of the storms inside the people we pass every day.",
+   "bytes": 37632
+  },
+  {
+   "line": 10,
+   "file": "day15-line010.mp3",
+   "sentence_id": "c1-day15-s10",
+   "en": "Rarely does advice comfort the grieving; presence comforts them far more than words.",
+   "bytes": 53760
+  },
+  {
+   "line": 11,
+   "file": "day15-line011.mp3",
+   "sentence_id": "c1-day15-s11",
+   "en": "What grief needs from us is not solutions but the patience to simply remain in the room.",
+   "bytes": 52224
+  },
+  {
+   "line": 12,
+   "file": "day15-line012.mp3",
+   "sentence_id": "c1-day15-s12",
+   "en": "It is a rare skill to hear anger and answer the fear that hides beneath it.",
+   "bytes": 48192
+  },
+  {
+   "line": 13,
+   "file": "day15-line013.mp3",
+   "sentence_id": "c1-day15-s13",
+   "en": "Were we to rank emotions by honesty, the ones we hide would top the list.",
+   "bytes": 46656
+  },
+  {
+   "line": 14,
+   "file": "day15-line014.mp3",
+   "sentence_id": "c1-day15-s14",
+   "en": "Not until we forgive ourselves do most of us find the strength to apologize to others.",
+   "bytes": 53568
+  },
+  {
+   "line": 15,
+   "file": "day15-line015.mp3",
+   "sentence_id": "c1-day15-s15",
+   "en": "However rational we believe ourselves to be, our decisions are made of feeling long before reason arrives.",
+   "bytes": 67584
+  }
+ ]
+}
