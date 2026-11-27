@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 2,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day02-line001.mp3",
+   "sentence_id": "c1-day02-s01",
+   "en": "What separates fluent speakers from advanced ones is the ability to sound right for every occasion.",
+   "bytes": 57408
+  },
+  {
+   "line": 2,
+   "file": "day02-line002.mp3",
+   "sentence_id": "c1-day02-s02",
+   "en": "It is essential that every candidate be given the same information at the same time.",
+   "bytes": 51456
+  },
+  {
+   "line": 3,
+   "file": "day02-line003.mp3",
+   "sentence_id": "c1-day02-s03",
+   "en": "Were the letter written to a friend rather than a minister, its tone would be entirely different.",
+   "bytes": 59904
+  },
+  {
+   "line": 4,
+   "file": "day02-line004.mp3",
+   "sentence_id": "c1-day02-s04",
+   "en": "However brilliant your idea may be, presenting it in the wrong register can kill it before anyone listens.",
+   "bytes": 64896
+  },
+  {
+   "line": 5,
+   "file": "day02-line005.mp3",
+   "sentence_id": "c1-day02-s05",
+   "en": "The speech, which had clearly been written for academics, left half the audience checking their phones.",
+   "bytes": 58368
+  },
+  {
+   "line": 6,
+   "file": "day02-line006.mp3",
+   "sentence_id": "c1-day02-s06",
+   "en": "Not until you have written the same message in three different styles do you understand what register really means.",
+   "bytes": 69120
+  },
+  {
+   "line": 7,
+   "file": "day02-line007.mp3",
+   "sentence_id": "c1-day02-s07",
+   "en": "Admittedly, 'give us a ring' sounds friendlier than 'contact us', but no company report would ever use it.",
+   "bytes": 67392
+  },
+  {
+   "line": 8,
+   "file": "day02-line008.mp3",
+   "sentence_id": "c1-day02-s08",
+   "en": "It is not what he said that offended the committee, but the way he chose to say it.",
+   "bytes": 50304
+  },
+  {
+   "line": 9,
+   "file": "day02-line009.mp3",
+   "sentence_id": "c1-day02-s09",
+   "en": "Should you require assistance, do ask; but between friends, a simple 'help!' is more than enough.",
+   "bytes": 59520
+  },
+  {
+   "line": 10,
+   "file": "day02-line010.mp3",
+   "sentence_id": "c1-day02-s10",
+   "en": "Rarely does a speaker notice how often they shift register, yet listeners judge them on it every time.",
+   "bytes": 64320
+  },
+  {
+   "line": 11,
+   "file": "day02-line011.mp3",
+   "sentence_id": "c1-day02-s11",
+   "en": "The same request that sounds rude in an email can sound perfectly natural across a kitchen table.",
+   "bytes": 54720
+  },
+  {
+   "line": 12,
+   "file": "day02-line012.mp3",
+   "sentence_id": "c1-day02-s12",
+   "en": "No sooner had he opened his mouth than the whole room knew he had misjudged the occasion.",
+   "bytes": 58368
+  },
+  {
+   "line": 13,
+   "file": "day02-line013.mp3",
+   "sentence_id": "c1-day02-s13",
+   "en": "It is one thing to master grammar, and quite another to know when a casual word fits better than a formal one.",
+   "bytes": 62016
+  },
+  {
+   "line": 14,
+   "file": "day02-line014.mp3",
+   "sentence_id": "c1-day02-s14",
+   "en": "Were the same complaint made in slang, the manager would have laughed; made in legalese, it would have been ignored.",
+   "bytes": 60864
+  },
+  {
+   "line": 15,
+   "file": "day02-line015.mp3",
+   "sentence_id": "c1-day02-s15",
+   "en": "However fluent a speaker becomes, a single wrong register can make them sound like a beginner again.",
+   "bytes": 60864
+  }
+ ]
+}
