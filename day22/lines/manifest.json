@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 22,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day22-line001.mp3",
+   "sentence_id": "c1-day22-s01",
+   "en": "What we remember is rarely what happened; it is the story we have told ourselves about what happened.",
+   "bytes": 57216
+  },
+  {
+   "line": 2,
+   "file": "day22-line002.mp3",
+   "sentence_id": "c1-day22-s02",
+   "en": "It is unsettling to realize that every time we recall a memory, we rewrite it a little.",
+   "bytes": 57024
+  },
+  {
+   "line": 3,
+   "file": "day22-line003.mp3",
+   "sentence_id": "c1-day22-s03",
+   "en": "Were our memories perfectly accurate, forgiveness would be much harder to find.",
+   "bytes": 41472
+  },
+  {
+   "line": 4,
+   "file": "day22-line004.mp3",
+   "sentence_id": "c1-day22-s04",
+   "en": "However old the wound, some anniversaries arrive with the weight of the first day.",
+   "bytes": 51264
+  },
+  {
+   "line": 5,
+   "file": "day22-line005.mp3",
+   "sentence_id": "c1-day22-s05",
+   "en": "Not until the last witness dies does an event fully pass from memory into history.",
+   "bytes": 58944
+  },
+  {
+   "line": 6,
+   "file": "day22-line006.mp3",
+   "sentence_id": "c1-day22-s06",
+   "en": "It is said that we are all unreliable narrators of our own lives.",
+   "bytes": 41856
+  },
+  {
+   "line": 7,
+   "file": "day22-line007.mp3",
+   "sentence_id": "c1-day22-s07",
+   "en": "What the old photograph preserves is not the moment, but the version of the moment someone chose to keep.",
+   "bytes": 58176
+  },
+  {
+   "line": 8,
+   "file": "day22-line008.mp3",
+   "sentence_id": "c1-day22-s08",
+   "en": "The smell of jasmine, for no reason he could name, returned him to his grandmother's balcony.",
+   "bytes": 53568
+  },
+  {
+   "line": 9,
+   "file": "day22-line009.mp3",
+   "sentence_id": "c1-day22-s09",
+   "en": "Little of what we learn at school survives, but the teacher who believed in us is never forgotten.",
+   "bytes": 57408
+  },
+  {
+   "line": 10,
+   "file": "day22-line010.mp3",
+   "sentence_id": "c1-day22-s10",
+   "en": "Rarely do two siblings remember the same childhood.",
+   "bytes": 35328
+  },
+  {
+   "line": 11,
+   "file": "day22-line011.mp3",
+   "sentence_id": "c1-day22-s11",
+   "en": "What the mind keeps of a whole year can sometimes be reduced to a single afternoon.",
+   "bytes": 56448
+  },
+  {
+   "line": 12,
+   "file": "day22-line012.mp3",
+   "sentence_id": "c1-day22-s12",
+   "en": "It is a mercy that memory fades; were every embarrassment perfectly preserved, none of us would leave the house.",
+   "bytes": 66240
+  },
+  {
+   "line": 13,
+   "file": "day22-line013.mp3",
+   "sentence_id": "c1-day22-s13",
+   "en": "Were we able to choose our memories, we would keep the wrong ones and delete the ones that taught us.",
+   "bytes": 56064
+  },
+  {
+   "line": 14,
+   "file": "day22-line014.mp3",
+   "sentence_id": "c1-day22-s14",
+   "en": "Not until the house was emptied did the family discover how many of its stories lived inside the furniture.",
+   "bytes": 69696
+  },
+  {
+   "line": 15,
+   "file": "day22-line015.mp3",
+   "sentence_id": "c1-day22-s15",
+   "en": "However vivid a memory feels, its details have been repainted by every retelling since.",
+   "bytes": 56640
+  }
+ ]
+}
