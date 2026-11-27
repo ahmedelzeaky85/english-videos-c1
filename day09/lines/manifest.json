@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 9,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day09-line001.mp3",
+   "sentence_id": "c1-day09-s01",
+   "en": "It was not the storm that destroyed the harvest, but the drought that had come before it.",
+   "bytes": 52416
+  },
+  {
+   "line": 2,
+   "file": "day09-line002.mp3",
+   "sentence_id": "c1-day09-s02",
+   "en": "What the report actually says, contrary to the headlines, is that more research is needed.",
+   "bytes": 54144
+  },
+  {
+   "line": 3,
+   "file": "day09-line003.mp3",
+   "sentence_id": "c1-day09-s03",
+   "en": "All I ask is that you listen before you judge.",
+   "bytes": 31488
+  },
+  {
+   "line": 4,
+   "file": "day09-line004.mp3",
+   "sentence_id": "c1-day09-s04",
+   "en": "It is the small print, not the promises, that decides what a contract really means.",
+   "bytes": 53568
+  },
+  {
+   "line": 5,
+   "file": "day09-line005.mp3",
+   "sentence_id": "c1-day09-s05",
+   "en": "Not only did she finish the marathon, but she did so with a fever nobody knew about.",
+   "bytes": 52224
+  },
+  {
+   "line": 6,
+   "file": "day09-line006.mp3",
+   "sentence_id": "c1-day09-s06",
+   "en": "What surprised everyone was not that he apologized, but that he meant it.",
+   "bytes": 43200
+  },
+  {
+   "line": 7,
+   "file": "day09-line007.mp3",
+   "sentence_id": "c1-day09-s07",
+   "en": "Only when the last tree has been cut do people realize that money cannot be eaten.",
+   "bytes": 54336
+  },
+  {
+   "line": 8,
+   "file": "day09-line008.mp3",
+   "sentence_id": "c1-day09-s08",
+   "en": "It was her voice, calm and steady, that held the whole team together during the crisis.",
+   "bytes": 52416
+  },
+  {
+   "line": 9,
+   "file": "day09-line009.mp3",
+   "sentence_id": "c1-day09-s09",
+   "en": "What we need is not more information but the courage to act on what we already know.",
+   "bytes": 54912
+  },
+  {
+   "line": 10,
+   "file": "day09-line010.mp3",
+   "sentence_id": "c1-day09-s10",
+   "en": "Rarely is it the strongest argument that wins; it is the one most clearly heard.",
+   "bytes": 49728
+  },
+  {
+   "line": 11,
+   "file": "day09-line011.mp3",
+   "sentence_id": "c1-day09-s11",
+   "en": "It was the lack of preparation, more than any opponent, that defeated the candidate in the final debate.",
+   "bytes": 64704
+  },
+  {
+   "line": 12,
+   "file": "day09-line012.mp3",
+   "sentence_id": "c1-day09-s12",
+   "en": "What the witnesses all remembered, months later, was not the accident but the calm of the nurse who helped.",
+   "bytes": 65280
+  },
+  {
+   "line": 13,
+   "file": "day09-line013.mp3",
+   "sentence_id": "c1-day09-s13",
+   "en": "It is the questions we refuse to ask that shape our decisions more than the answers we find.",
+   "bytes": 59328
+  },
+  {
+   "line": 14,
+   "file": "day09-line014.mp3",
+   "sentence_id": "c1-day09-s14",
+   "en": "All he ever wanted was for someone to read his work and take it seriously.",
+   "bytes": 47040
+  },
+  {
+   "line": 15,
+   "file": "day09-line015.mp3",
+   "sentence_id": "c1-day09-s15",
+   "en": "What made the speech unforgettable was not its eloquence but the long pause before its final sentence.",
+   "bytes": 66624
+  }
+ ]
+}
