@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 5,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day05-line001.mp3",
+   "sentence_id": "c1-day05-s01",
+   "en": "What distinguishes a strong argument from a loud one is the quality of its evidence, not its volume.",
+   "bytes": 60864
+  },
+  {
+   "line": 2,
+   "file": "day05-line002.mp3",
+   "sentence_id": "c1-day05-s02",
+   "en": "It is a common mistake to attack the person instead of the argument, and it usually reveals a weak position.",
+   "bytes": 63552
+  },
+  {
+   "line": 3,
+   "file": "day05-line003.mp3",
+   "sentence_id": "c1-day05-s03",
+   "en": "Were the opposition's claims examined carefully, most of them would collapse under their own weight.",
+   "bytes": 52608
+  },
+  {
+   "line": 4,
+   "file": "day05-line004.mp3",
+   "sentence_id": "c1-day05-s04",
+   "en": "Admittedly, your plan has its strengths; nevertheless, it ignores the single most important risk.",
+   "bytes": 52992
+  },
+  {
+   "line": 5,
+   "file": "day05-line005.mp3",
+   "sentence_id": "c1-day05-s05",
+   "en": "Not until both sides agree on the facts can any real debate about solutions begin.",
+   "bytes": 45312
+  },
+  {
+   "line": 6,
+   "file": "day05-line006.mp3",
+   "sentence_id": "c1-day05-s06",
+   "en": "However appealing a slogan may sound, it is no substitute for a well-reasoned policy.",
+   "bytes": 54720
+  },
+  {
+   "line": 7,
+   "file": "day05-line007.mp3",
+   "sentence_id": "c1-day05-s07",
+   "en": "It is worth asking who benefits when a simple question is turned into a bitter public battle.",
+   "bytes": 65088
+  },
+  {
+   "line": 8,
+   "file": "day05-line008.mp3",
+   "sentence_id": "c1-day05-s08",
+   "en": "The strongest case for the proposal, granted, is its simplicity; its weakest is everything else.",
+   "bytes": 59136
+  },
+  {
+   "line": 9,
+   "file": "day05-line009.mp3",
+   "sentence_id": "c1-day05-s09",
+   "en": "To claim that technology alone will solve the problem is to misunderstand what the problem is.",
+   "bytes": 57600
+  },
+  {
+   "line": 10,
+   "file": "day05-line010.mp3",
+   "sentence_id": "c1-day05-s10",
+   "en": "Rarely does anyone win a debate by shouting; more often, they simply lose the audience.",
+   "bytes": 57024
+  },
+  {
+   "line": 11,
+   "file": "day05-line011.mp3",
+   "sentence_id": "c1-day05-s11",
+   "en": "What weakens his position is not the lack of passion, but the habit of treating every question as a personal attack.",
+   "bytes": 75840
+  },
+  {
+   "line": 12,
+   "file": "day05-line012.mp3",
+   "sentence_id": "c1-day05-s12",
+   "en": "It is perfectly possible to disagree with an idea while respecting the person who holds it, though you would never know it from our talk shows.",
+   "bytes": 78144
+  },
+  {
+   "line": 13,
+   "file": "day05-line013.mp3",
+   "sentence_id": "c1-day05-s13",
+   "en": "For the sake of argument, let us accept your claim; even then, your conclusion does not follow.",
+   "bytes": 59328
+  },
+  {
+   "line": 14,
+   "file": "day05-line014.mp3",
+   "sentence_id": "c1-day05-s14",
+   "en": "An argument won by silencing the other side is not a victory but a confession of weakness.",
+   "bytes": 62208
+  },
+  {
+   "line": 15,
+   "file": "day05-line015.mp3",
+   "sentence_id": "c1-day05-s15",
+   "en": "Were every debater required to state their opponent's position fairly before attacking it, half our arguments would end before they began.",
+   "bytes": 76608
+  }
+ ]
+}
