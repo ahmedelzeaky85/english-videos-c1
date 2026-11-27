@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 29,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day29-line001.mp3",
+   "sentence_id": "c1-day29-s01",
+   "en": "What freedom means, if it means anything at all, is the right to tell people what they do not want to hear.",
+   "bytes": 52224
+  },
+  {
+   "line": 2,
+   "file": "day29-line002.mp3",
+   "sentence_id": "c1-day29-s02",
+   "en": "It is not enough to be right; you must be read.",
+   "bytes": 27840
+  },
+  {
+   "line": 3,
+   "file": "day29-line003.mp3",
+   "sentence_id": "c1-day29-s03",
+   "en": "Were both sides to state the other's position fairly, half the argument would end on its own.",
+   "bytes": 44544
+  },
+  {
+   "line": 4,
+   "file": "day29-line004.mp3",
+   "sentence_id": "c1-day29-s04",
+   "en": "It is not the achievement that changes a person, but the person they had to become to reach it.",
+   "bytes": 45312
+  },
+  {
+   "line": 5,
+   "file": "day29-line005.mp3",
+   "sentence_id": "c1-day29-s05",
+   "en": "However wide our freedom, it ends where another person's freedom begins.",
+   "bytes": 45120
+  },
+  {
+   "line": 6,
+   "file": "day29-line006.mp3",
+   "sentence_id": "c1-day29-s06",
+   "en": "Not until you have written for a hostile reader have you truly written persuasively.",
+   "bytes": 39360
+  },
+  {
+   "line": 7,
+   "file": "day29-line007.mp3",
+   "sentence_id": "c1-day29-s07",
+   "en": "It is said that you do not make peace with your friends; you make it with your enemies.",
+   "bytes": 36864
+  },
+  {
+   "line": 8,
+   "file": "day29-line008.mp3",
+   "sentence_id": "c1-day29-s08",
+   "en": "It is said that success has many fathers, while failure is an orphan.",
+   "bytes": 35520
+  },
+  {
+   "line": 9,
+   "file": "day29-line009.mp3",
+   "sentence_id": "c1-day29-s09",
+   "en": "Little is solved by winning an argument with someone who must then live with the defeat.",
+   "bytes": 39552
+  },
+  {
+   "line": 10,
+   "file": "day29-line010.mp3",
+   "sentence_id": "c1-day29-s10",
+   "en": "Rarely is the summit the point; the climb is.",
+   "bytes": 27456
+  },
+  {
+   "line": 11,
+   "file": "day29-line011.mp3",
+   "sentence_id": "c1-day29-s11",
+   "en": "It is when speaking becomes dangerous that silence stops being neutral.",
+   "bytes": 40320
+  },
+  {
+   "line": 12,
+   "file": "day29-line012.mp3",
+   "sentence_id": "c1-day29-s12",
+   "en": "What the reader owes you is nothing; every sentence must earn the reading of the next.",
+   "bytes": 46464
+  },
+  {
+   "line": 13,
+   "file": "day29-line013.mp3",
+   "sentence_id": "c1-day29-s13",
+   "en": "What the mediator wrote on one page, after ten years of fighting, was simply what each side feared most.",
+   "bytes": 59904
+  },
+  {
+   "line": 14,
+   "file": "day29-line014.mp3",
+   "sentence_id": "c1-day29-s14",
+   "en": "What we call success is often only the visible tip of ten years of invisible work.",
+   "bytes": 48576
+  },
+  {
+   "line": 15,
+   "file": "day29-line015.mp3",
+   "sentence_id": "c1-day29-s15",
+   "en": "However many the trophies, they gather dust; the work that earned them keeps its shine.",
+   "bytes": 48000
+  }
+ ]
+}
