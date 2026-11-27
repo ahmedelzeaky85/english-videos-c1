@@ -1,0 +1,188 @@
+{
+ "level": "C1",
+ "day": 12,
+ "count": 30,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day12-line001.mp3",
+   "en": "Hi Omar! Did you finish the research article I sent you?",
+   "bytes": 32448
+  },
+  {
+   "line": 2,
+   "file": "day12-line002.mp3",
+   "en": "Hi Sara. I did. What the data demonstrate is not that the method fails, but that its success depends on conditions we rarely meet.",
+   "bytes": 77568
+  },
+  {
+   "line": 3,
+   "file": "day12-line003.mp3",
+   "en": "That sounds like the study, the findings of which were published last year.",
+   "bytes": 37824
+  },
+  {
+   "line": 4,
+   "file": "day12-line004.mp3",
+   "en": "The very one. Not until the experiment had been repeated forty times did the journal agree to publish the results.",
+   "bytes": 66624
+  },
+  {
+   "line": 5,
+   "file": "day12-line005.mp3",
+   "en": "Forty times! I would call that thorough.",
+   "bytes": 30144
+  },
+  {
+   "line": 6,
+   "file": "day12-line006.mp3",
+   "en": "And I would call that an understatement. It would be an understatement to say the reviewers were demanding.",
+   "bytes": 60672
+  },
+  {
+   "line": 7,
+   "file": "day12-line007.mp3",
+   "en": "You are learning fast. What the reviewer called 'not entirely successful' was, by any honest measure, years of work.",
+   "bytes": 78144
+  },
+  {
+   "line": 8,
+   "file": "day12-line008.mp3",
+   "en": "It is ironic that the harshest criticism came from the professor who taught me research methods.",
+   "bytes": 54912
+  },
+  {
+   "line": 9,
+   "file": "day12-line009.mp3",
+   "en": "Speaking of emphasis, what did you think of the article's conclusion?",
+   "bytes": 43392
+  },
+  {
+   "line": 10,
+   "file": "day12-line010.mp3",
+   "en": "What the report actually says, contrary to the headlines, is that more research is needed.",
+   "bytes": 54144
+  },
+  {
+   "line": 11,
+   "file": "day12-line011.mp3",
+   "en": "It is the small print, not the promises, that decides what a study really means.",
+   "bytes": 51648
+  },
+  {
+   "line": 12,
+   "file": "day12-line012.mp3",
+   "en": "Only when you read the methods section do you see how narrow the experiment really was.",
+   "bytes": 50304
+  },
+  {
+   "line": 13,
+   "file": "day12-line013.mp3",
+   "en": "Precision matters there. What the law forbids and what the law punishes are two very different things.",
+   "bytes": 67008
+  },
+  {
+   "line": 14,
+   "file": "day12-line014.mp3",
+   "en": "True. The article states the effect appeared 'within' the first group, which is not the same as 'across' all groups.",
+   "bytes": 75264
+  },
+  {
+   "line": 15,
+   "file": "day12-line015.mp3",
+   "en": "However similar 'affect' and 'effect' may look, confusing them can change a conclusion completely.",
+   "bytes": 57792
+  },
+  {
+   "line": 16,
+   "file": "day12-line016.mp3",
+   "en": "Not until you try to translate the abstract do you discover how much meaning lives outside the words.",
+   "bytes": 61824
+  },
+  {
+   "line": 17,
+   "file": "day12-line017.mp3",
+   "en": "You know what this article really needs? A story.",
+   "bytes": 32832
+  },
+  {
+   "line": 18,
+   "file": "day12-line018.mp3",
+   "en": "What every good storyteller knows is that the ending must feel both surprising and inevitable.",
+   "bytes": 60288
+  },
+  {
+   "line": 19,
+   "file": "day12-line019.mp3",
+   "en": "It is not the events themselves that make a story, but the order in which they are revealed.",
+   "bytes": 54912
+  },
+  {
+   "line": 20,
+   "file": "day12-line020.mp3",
+   "en": "Had the paper opened with the conclusion, the reader would have understood everything too soon.",
+   "bytes": 49344
+  },
+  {
+   "line": 21,
+   "file": "day12-line021.mp3",
+   "en": "Not until the final chapter do we learn that the narrator has been hiding the real sample size all along.",
+   "bytes": 64128
+  },
+  {
+   "line": 22,
+   "file": "day12-line022.mp3",
+   "en": "Now you are joking. But it is said that every family has one story that is told at every gathering, and one that never is.",
+   "bytes": 83712
+  },
+  {
+   "line": 23,
+   "file": "day12-line023.mp3",
+   "en": "What is your family's untold story?",
+   "bytes": 28992
+  },
+  {
+   "line": 24,
+   "file": "day12-line024.mp3",
+   "en": "If I told you, it would not be untold anymore.",
+   "bytes": 34368
+  },
+  {
+   "line": 25,
+   "file": "day12-line025.mp3",
+   "en": "Fair enough. Were the story told from the villain's point of view, we might find ourselves forgiving him.",
+   "bytes": 56448
+  },
+  {
+   "line": 26,
+   "file": "day12-line026.mp3",
+   "en": "Little by little, the details fall into place, and what seemed a confusion turns out to be a design.",
+   "bytes": 70848
+  },
+  {
+   "line": 27,
+   "file": "day12-line027.mp3",
+   "en": "Like your research project, I hope.",
+   "bytes": 25152
+  },
+  {
+   "line": 28,
+   "file": "day12-line028.mp3",
+   "en": "Were the sample larger, the findings would carry considerably more weight. That is the design I need.",
+   "bytes": 67392
+  },
+  {
+   "line": 29,
+   "file": "day12-line029.mp3",
+   "en": "Then go find more participants. Rarely does a single paper change a whole field, but when it does, textbooks are rewritten.",
+   "bytes": 77952
+  },
+  {
+   "line": 30,
+   "file": "day12-line030.mp3",
+   "en": "One day, Sara. One day my name will be in one of those textbooks.",
+   "bytes": 44352
+  }
+ ]
+}
