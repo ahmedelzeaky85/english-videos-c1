@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 10,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day10-line001.mp3",
+   "sentence_id": "c1-day10-s01",
+   "en": "What the law forbids and what the law punishes are two very different things.",
+   "bytes": 46080
+  },
+  {
+   "line": 2,
+   "file": "day10-line002.mp3",
+   "sentence_id": "c1-day10-s02",
+   "en": "It is one thing to hear the words, another to listen to them, and quite another to understand them.",
+   "bytes": 57216
+  },
+  {
+   "line": 3,
+   "file": "day10-line003.mp3",
+   "sentence_id": "c1-day10-s03",
+   "en": "The word 'home' carries a weight that 'house' was never built to bear.",
+   "bytes": 43584
+  },
+  {
+   "line": 4,
+   "file": "day10-line004.mp3",
+   "sentence_id": "c1-day10-s04",
+   "en": "Were the instructions any less precise, the machine would be not merely useless but dangerous.",
+   "bytes": 60480
+  },
+  {
+   "line": 5,
+   "file": "day10-line005.mp3",
+   "sentence_id": "c1-day10-s05",
+   "en": "Not until you try to translate a joke do you discover how much of its meaning lives outside the words.",
+   "bytes": 67392
+  },
+  {
+   "line": 6,
+   "file": "day10-line006.mp3",
+   "sentence_id": "c1-day10-s06",
+   "en": "However similar 'remember' and 'remind' may look, confusing them can change a message completely.",
+   "bytes": 59520
+  },
+  {
+   "line": 7,
+   "file": "day10-line007.mp3",
+   "sentence_id": "c1-day10-s07",
+   "en": "It is the difference between 'I did not say that' and 'I did not say that' - emphasis alone can move the meaning.",
+   "bytes": 69504
+  },
+  {
+   "line": 8,
+   "file": "day10-line008.mp3",
+   "sentence_id": "c1-day10-s08",
+   "en": "The contract states that payment is due 'within' thirty days, which is not the same as 'after' thirty days.",
+   "bytes": 65280
+  },
+  {
+   "line": 9,
+   "file": "day10-line009.mp3",
+   "sentence_id": "c1-day10-s09",
+   "en": "What a dictionary gives you is the skeleton of a word; its flesh and blood come from use.",
+   "bytes": 53952
+  },
+  {
+   "line": 10,
+   "file": "day10-line010.mp3",
+   "sentence_id": "c1-day10-s10",
+   "en": "Rarely does a mistranslation start a war, but history shows it has come uncomfortably close.",
+   "bytes": 60864
+  },
+  {
+   "line": 11,
+   "file": "day10-line011.mp3",
+   "sentence_id": "c1-day10-s11",
+   "en": "It is the context, not the dictionary, that decides which of a word's many meanings is alive in a sentence.",
+   "bytes": 59712
+  },
+  {
+   "line": 12,
+   "file": "day10-line012.mp3",
+   "sentence_id": "c1-day10-s12",
+   "en": "Were every word to carry only one meaning, poetry would be impossible and lawyers unemployed.",
+   "bytes": 64704
+  },
+  {
+   "line": 13,
+   "file": "day10-line013.mp3",
+   "sentence_id": "c1-day10-s13",
+   "en": "What separates 'almost right' from 'right' in translation is often a single syllable.",
+   "bytes": 66048
+  },
+  {
+   "line": 14,
+   "file": "day10-line014.mp3",
+   "sentence_id": "c1-day10-s14",
+   "en": "Not until the ambassador chose the wrong word did anyone realize the interpreter had been smoothing things over for years.",
+   "bytes": 72768
+  },
+  {
+   "line": 15,
+   "file": "day10-line015.mp3",
+   "sentence_id": "c1-day10-s15",
+   "en": "However precise a definition may be, real usage always finds a way to bend it.",
+   "bytes": 54528
+  }
+ ]
+}
