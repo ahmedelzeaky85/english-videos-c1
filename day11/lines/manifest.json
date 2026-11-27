@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 11,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day11-line001.mp3",
+   "sentence_id": "c1-day11-s01",
+   "en": "What every good storyteller knows is that the ending must feel both surprising and inevitable.",
+   "bytes": 63744
+  },
+  {
+   "line": 2,
+   "file": "day11-line002.mp3",
+   "sentence_id": "c1-day11-s02",
+   "en": "It is not the events themselves that make a story, but the order in which they are revealed.",
+   "bytes": 52992
+  },
+  {
+   "line": 3,
+   "file": "day11-line003.mp3",
+   "sentence_id": "c1-day11-s03",
+   "en": "Had the novel opened with the funeral, the reader would have understood everything too soon.",
+   "bytes": 47616
+  },
+  {
+   "line": 4,
+   "file": "day11-line004.mp3",
+   "sentence_id": "c1-day11-s04",
+   "en": "What the old sailor never mentioned was the reason he had stopped going to sea.",
+   "bytes": 42816
+  },
+  {
+   "line": 5,
+   "file": "day11-line005.mp3",
+   "sentence_id": "c1-day11-s05",
+   "en": "Not until the final chapter do we learn that the narrator has been lying to us all along.",
+   "bytes": 54912
+  },
+  {
+   "line": 6,
+   "file": "day11-line006.mp3",
+   "sentence_id": "c1-day11-s06",
+   "en": "However simple the plot may seem, it is the silences between the scenes that carry the emotion.",
+   "bytes": 57024
+  },
+  {
+   "line": 7,
+   "file": "day11-line007.mp3",
+   "sentence_id": "c1-day11-s07",
+   "en": "It is said that every family has one story that is told at every gathering, and one that never is.",
+   "bytes": 64128
+  },
+  {
+   "line": 8,
+   "file": "day11-line008.mp3",
+   "sentence_id": "c1-day11-s08",
+   "en": "Were the story told from the villain's point of view, we might find ourselves forgiving him.",
+   "bytes": 52224
+  },
+  {
+   "line": 9,
+   "file": "day11-line009.mp3",
+   "sentence_id": "c1-day11-s09",
+   "en": "Little by little, the details fall into place, and what seemed a confusion turns out to be a design.",
+   "bytes": 64320
+  },
+  {
+   "line": 10,
+   "file": "day11-line010.mp3",
+   "sentence_id": "c1-day11-s10",
+   "en": "Rarely does the first version of a story survive; the best ones are told and retold until they shine.",
+   "bytes": 66624
+  },
+  {
+   "line": 11,
+   "file": "day11-line011.mp3",
+   "sentence_id": "c1-day11-s11",
+   "en": "What the grandmother's stories never explained was why she always stopped at the same point and smiled.",
+   "bytes": 67584
+  },
+  {
+   "line": 12,
+   "file": "day11-line012.mp3",
+   "sentence_id": "c1-day11-s12",
+   "en": "It is in the second telling that a story finds its true shape, the first being little more than a rehearsal.",
+   "bytes": 68736
+  },
+  {
+   "line": 13,
+   "file": "day11-line013.mp3",
+   "sentence_id": "c1-day11-s13",
+   "en": "Had the detective noticed the mud on the carpet in chapter one, the mystery would have lasted four pages.",
+   "bytes": 58368
+  },
+  {
+   "line": 14,
+   "file": "day11-line014.mp3",
+   "sentence_id": "c1-day11-s14",
+   "en": "What the film achieves without a single word of dialogue is more than most scripts manage in two hours.",
+   "bytes": 59712
+  },
+  {
+   "line": 15,
+   "file": "day11-line015.mp3",
+   "sentence_id": "c1-day11-s15",
+   "en": "Not until the last page does the reader understand why the story began in the middle.",
+   "bytes": 52800
+  }
+ ]
+}
