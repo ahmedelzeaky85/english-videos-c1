@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 3,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day03-line001.mp3",
+   "sentence_id": "c1-day03-s01",
+   "en": "It would seem that the results point in one direction, though the data are far from conclusive.",
+   "bytes": 52032
+  },
+  {
+   "line": 2,
+   "file": "day03-line002.mp3",
+   "sentence_id": "c1-day03-s02",
+   "en": "What cautious writers understand is that a well-placed 'perhaps' can be more persuasive than a bold claim.",
+   "bytes": 64704
+  },
+  {
+   "line": 3,
+   "file": "day03-line003.mp3",
+   "sentence_id": "c1-day03-s03",
+   "en": "The treatment appears to work in most cases, although further studies are needed before any firm conclusion.",
+   "bytes": 64512
+  },
+  {
+   "line": 4,
+   "file": "day03-line004.mp3",
+   "sentence_id": "c1-day03-s04",
+   "en": "To all intents and purposes, the project is finished, even if a few details remain open.",
+   "bytes": 49536
+  },
+  {
+   "line": 5,
+   "file": "day03-line005.mp3",
+   "sentence_id": "c1-day03-s05",
+   "en": "However confident the forecast may sound, it remains, at best, an educated guess about the future.",
+   "bytes": 59136
+  },
+  {
+   "line": 6,
+   "file": "day03-line006.mp3",
+   "sentence_id": "c1-day03-s06",
+   "en": "Were I to venture an opinion, I would say the plan is promising, provided the funding holds.",
+   "bytes": 54912
+  },
+  {
+   "line": 7,
+   "file": "day03-line007.mp3",
+   "sentence_id": "c1-day03-s07",
+   "en": "It is generally accepted that stress affects memory, but the strength of that effect is still debated.",
+   "bytes": 57024
+  },
+  {
+   "line": 8,
+   "file": "day03-line008.mp3",
+   "sentence_id": "c1-day03-s08",
+   "en": "Not until every alternative explanation has been ruled out should we call the theory proven.",
+   "bytes": 54336
+  },
+  {
+   "line": 9,
+   "file": "day03-line009.mp3",
+   "sentence_id": "c1-day03-s09",
+   "en": "He tends to overstate his case, which is why his otherwise good arguments are often dismissed.",
+   "bytes": 56640
+  },
+  {
+   "line": 10,
+   "file": "day03-line010.mp3",
+   "sentence_id": "c1-day03-s10",
+   "en": "Rarely can a single study settle a scientific question, whatever the headlines may claim.",
+   "bytes": 59712
+  },
+  {
+   "line": 11,
+   "file": "day03-line011.mp3",
+   "sentence_id": "c1-day03-s11",
+   "en": "The evidence suggests, though it does not prove, that the policy had some effect.",
+   "bytes": 50304
+  },
+  {
+   "line": 12,
+   "file": "day03-line012.mp3",
+   "sentence_id": "c1-day03-s12",
+   "en": "It could be argued that the failure owes as much to timing as to the idea itself.",
+   "bytes": 52608
+  },
+  {
+   "line": 13,
+   "file": "day03-line013.mp3",
+   "sentence_id": "c1-day03-s13",
+   "en": "What little data we have points, tentatively, to a slow recovery rather than a sudden one.",
+   "bytes": 58176
+  },
+  {
+   "line": 14,
+   "file": "day03-line014.mp3",
+   "sentence_id": "c1-day03-s14",
+   "en": "To the best of our knowledge, no similar case has been reported, though absence of evidence is not evidence of absence.",
+   "bytes": 76224
+  },
+  {
+   "line": 15,
+   "file": "day03-line015.mp3",
+   "sentence_id": "c1-day03-s15",
+   "en": "All things considered, the proposal seems sound, subject of course to the usual uncertainties.",
+   "bytes": 60288
+  }
+ ]
+}
