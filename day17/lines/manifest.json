@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 17,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day17-line001.mp3",
+   "sentence_id": "c1-day17-s01",
+   "en": "What a headline chooses to shout and what it chooses to whisper tell you more than the story itself.",
+   "bytes": 61440
+  },
+  {
+   "line": 2,
+   "file": "day17-line002.mp3",
+   "sentence_id": "c1-day17-s02",
+   "en": "It is not only what the news reports that shapes opinion, but what it quietly leaves out.",
+   "bytes": 52224
+  },
+  {
+   "line": 3,
+   "file": "day17-line003.mp3",
+   "sentence_id": "c1-day17-s03",
+   "en": "Were the same event reported by two rival channels, you would hardly know it was the same event.",
+   "bytes": 58176
+  },
+  {
+   "line": 4,
+   "file": "day17-line004.mp3",
+   "sentence_id": "c1-day17-s04",
+   "en": "However neutral a report may sound, the choice of which expert to interview is already an opinion.",
+   "bytes": 61248
+  },
+  {
+   "line": 5,
+   "file": "day17-line005.mp3",
+   "sentence_id": "c1-day17-s05",
+   "en": "Not until you read the same story in three languages do you see how much of the news is framing.",
+   "bytes": 55680
+  },
+  {
+   "line": 6,
+   "file": "day17-line006.mp3",
+   "sentence_id": "c1-day17-s06",
+   "en": "It is said that the camera never lies, but it certainly chooses where to look.",
+   "bytes": 43776
+  },
+  {
+   "line": 7,
+   "file": "day17-line007.mp3",
+   "sentence_id": "c1-day17-s07",
+   "en": "What the algorithm shows you is not the world; it is the world most likely to keep you watching.",
+   "bytes": 58176
+  },
+  {
+   "line": 8,
+   "file": "day17-line008.mp3",
+   "sentence_id": "c1-day17-s08",
+   "en": "The study was widely reported as a breakthrough, though its authors had warned against exactly that word.",
+   "bytes": 65472
+  },
+  {
+   "line": 9,
+   "file": "day17-line009.mp3",
+   "sentence_id": "c1-day17-s09",
+   "en": "Little does the reader notice how the passive voice can hide who did what.",
+   "bytes": 50112
+  },
+  {
+   "line": 10,
+   "file": "day17-line010.mp3",
+   "sentence_id": "c1-day17-s10",
+   "en": "Rarely does a correction travel as far or as fast as the mistake it corrects.",
+   "bytes": 47232
+  },
+  {
+   "line": 11,
+   "file": "day17-line011.mp3",
+   "sentence_id": "c1-day17-s11",
+   "en": "What the photograph cropped out of the frame changed the story more than anything left inside it.",
+   "bytes": 55680
+  },
+  {
+   "line": 12,
+   "file": "day17-line012.mp3",
+   "sentence_id": "c1-day17-s12",
+   "en": "It is the repetition of a claim, not its truth, that makes it familiar enough to believe.",
+   "bytes": 51264
+  },
+  {
+   "line": 13,
+   "file": "day17-line013.mp3",
+   "sentence_id": "c1-day17-s13",
+   "en": "Were every reader to check one source before sharing, half the false news would die by morning.",
+   "bytes": 64704
+  },
+  {
+   "line": 14,
+   "file": "day17-line014.mp3",
+   "sentence_id": "c1-day17-s14",
+   "en": "Not until the interview is edited does the honest answer become a scandal.",
+   "bytes": 45504
+  },
+  {
+   "line": 15,
+   "file": "day17-line015.mp3",
+   "sentence_id": "c1-day17-s15",
+   "en": "However independent the channels may claim to be, their owners' names are printed in the registry for anyone to read.",
+   "bytes": 65472
+  }
+ ]
+}
