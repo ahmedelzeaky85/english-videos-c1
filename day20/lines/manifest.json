@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 20,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day20-line001.mp3",
+   "sentence_id": "c1-day20-s01",
+   "en": "What distinguishes a professional email from a casual one is not length, but the clarity of what happens next.",
+   "bytes": 64704
+  },
+  {
+   "line": 2,
+   "file": "day20-line002.mp3",
+   "sentence_id": "c1-day20-s02",
+   "en": "It is better to deliver bad news plainly and early than to wrap it in hopeful language until it is too late.",
+   "bytes": 63744
+  },
+  {
+   "line": 3,
+   "file": "day20-line003.mp3",
+   "sentence_id": "c1-day20-s03",
+   "en": "Were every meeting to end with a decision and a name, half the meetings would disappear.",
+   "bytes": 52416
+  },
+  {
+   "line": 4,
+   "file": "day20-line004.mp3",
+   "sentence_id": "c1-day20-s04",
+   "en": "However urgent your message may feel to you, to the reader it is one of a hundred.",
+   "bytes": 49344
+  },
+  {
+   "line": 5,
+   "file": "day20-line005.mp3",
+   "sentence_id": "c1-day20-s05",
+   "en": "Not until you have written 'I was wrong' to a client do you understand the value of writing it well.",
+   "bytes": 62592
+  },
+  {
+   "line": 6,
+   "file": "day20-line006.mp3",
+   "sentence_id": "c1-day20-s06",
+   "en": "It is advised that all feedback be specific, actionable, and kind; two out of three is not enough.",
+   "bytes": 64896
+  },
+  {
+   "line": 7,
+   "file": "day20-line007.mp3",
+   "sentence_id": "c1-day20-s07",
+   "en": "What the promotion announcement did not mention was who would do his old job.",
+   "bytes": 37632
+  },
+  {
+   "line": 8,
+   "file": "day20-line008.mp3",
+   "sentence_id": "c1-day20-s08",
+   "en": "The minutes of the meeting, though brief, managed to offend three departments in two sentences.",
+   "bytes": 61440
+  },
+  {
+   "line": 9,
+   "file": "day20-line009.mp3",
+   "sentence_id": "c1-day20-s09",
+   "en": "Little is achieved by copying the whole company on a complaint except theatre.",
+   "bytes": 50112
+  },
+  {
+   "line": 10,
+   "file": "day20-line010.mp3",
+   "sentence_id": "c1-day20-s10",
+   "en": "Rarely has anyone been promoted for a beautifully formatted spreadsheet alone.",
+   "bytes": 46464
+  },
+  {
+   "line": 11,
+   "file": "day20-line011.mp3",
+   "sentence_id": "c1-day20-s11",
+   "en": "What the apology email achieved in three sentences, three meetings had failed to repair.",
+   "bytes": 52992
+  },
+  {
+   "line": 12,
+   "file": "day20-line012.mp3",
+   "sentence_id": "c1-day20-s12",
+   "en": "It is a mark of seniority to write briefly; only the insecure feel the need to fill the page.",
+   "bytes": 60288
+  },
+  {
+   "line": 13,
+   "file": "day20-line013.mp3",
+   "sentence_id": "c1-day20-s13",
+   "en": "Were every reply-all to require a ten-second pause, office traffic would drop by half.",
+   "bytes": 60480
+  },
+  {
+   "line": 14,
+   "file": "day20-line014.mp3",
+   "sentence_id": "c1-day20-s14",
+   "en": "Not until the report was rewritten for the reader, not the writer, did anyone actually read it.",
+   "bytes": 61824
+  },
+  {
+   "line": 15,
+   "file": "day20-line015.mp3",
+   "sentence_id": "c1-day20-s15",
+   "en": "However routine the message, its tone will be remembered long after its content is forgotten.",
+   "bytes": 54336
+  }
+ ]
+}
