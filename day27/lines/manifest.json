@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 27,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day27-line001.mp3",
+   "sentence_id": "c1-day27-s01",
+   "en": "What most conflicts need is not a winner, but a listener both sides can trust.",
+   "bytes": 45504
+  },
+  {
+   "line": 2,
+   "file": "day27-line002.mp3",
+   "sentence_id": "c1-day27-s02",
+   "en": "It is remarkable how many wars begin over words that were never actually said.",
+   "bytes": 41280
+  },
+  {
+   "line": 3,
+   "file": "day27-line003.mp3",
+   "sentence_id": "c1-day27-s03",
+   "en": "Were both sides to state the other's position fairly, half the argument would end on its own.",
+   "bytes": 45120
+  },
+  {
+   "line": 4,
+   "file": "day27-line004.mp3",
+   "sentence_id": "c1-day27-s04",
+   "en": "However deep the grievance, the conversation must begin somewhere, and someone must begin it.",
+   "bytes": 47424
+  },
+  {
+   "line": 5,
+   "file": "day27-line005.mp3",
+   "sentence_id": "c1-day27-s05",
+   "en": "Not until the guns fall silent can the harder work of peace begin.",
+   "bytes": 33408
+  },
+  {
+   "line": 6,
+   "file": "day27-line006.mp3",
+   "sentence_id": "c1-day27-s06",
+   "en": "It is said that you do not make peace with your friends; you make it with your enemies.",
+   "bytes": 39744
+  },
+  {
+   "line": 7,
+   "file": "day27-line007.mp3",
+   "sentence_id": "c1-day27-s07",
+   "en": "What the mediator wrote on one page, after ten years of fighting, was simply what each side feared losing.",
+   "bytes": 58944
+  },
+  {
+   "line": 8,
+   "file": "day27-line008.mp3",
+   "sentence_id": "c1-day27-s08",
+   "en": "The apology arrived fifty years late, which is to say, it arrived.",
+   "bytes": 39936
+  },
+  {
+   "line": 9,
+   "file": "day27-line009.mp3",
+   "sentence_id": "c1-day27-s09",
+   "en": "Little is solved by winning an argument with someone who must then live with the defeat.",
+   "bytes": 39552
+  },
+  {
+   "line": 10,
+   "file": "day27-line010.mp3",
+   "sentence_id": "c1-day27-s10",
+   "en": "Rarely does the first offer end a conflict; it merely proves that ending it is possible.",
+   "bytes": 45120
+  },
+  {
+   "line": 11,
+   "file": "day27-line011.mp3",
+   "sentence_id": "c1-day27-s11",
+   "en": "What the treaty left unresolved returned, fifteen years later, wearing a different flag.",
+   "bytes": 46464
+  },
+  {
+   "line": 12,
+   "file": "day27-line012.mp3",
+   "sentence_id": "c1-day27-s12",
+   "en": "It is not weakness to listen first; it is the only strength that matters at the table.",
+   "bytes": 42624
+  },
+  {
+   "line": 13,
+   "file": "day27-line013.mp3",
+   "sentence_id": "c1-day27-s13",
+   "en": "Were every side to write the history of the conflict, the maps would not match, but the tears would.",
+   "bytes": 55488
+  },
+  {
+   "line": 14,
+   "file": "day27-line014.mp3",
+   "sentence_id": "c1-day27-s14",
+   "en": "Not until the grandchildren of enemies study in the same classroom can a conflict be called finished.",
+   "bytes": 47616
+  },
+  {
+   "line": 15,
+   "file": "day27-line015.mp3",
+   "sentence_id": "c1-day27-s15",
+   "en": "However just the cause, the methods by which it is fought become part of what it finally wins.",
+   "bytes": 50112
+  }
+ ]
+}
