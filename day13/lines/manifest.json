@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 13,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day13-line001.mp3",
+   "sentence_id": "c1-day13-s01",
+   "en": "What separates science from opinion is the willingness to say 'we do not know yet'.",
+   "bytes": 50496
+  },
+  {
+   "line": 2,
+   "file": "day13-line002.mp3",
+   "sentence_id": "c1-day13-s02",
+   "en": "It is a strength, not a weakness, that every scientific claim carries its own margin of doubt.",
+   "bytes": 59136
+  },
+  {
+   "line": 3,
+   "file": "day13-line003.mp3",
+   "sentence_id": "c1-day13-s03",
+   "en": "Were the universe perfectly predictable, there would be no science left to do.",
+   "bytes": 48384
+  },
+  {
+   "line": 4,
+   "file": "day13-line004.mp3",
+   "sentence_id": "c1-day13-s04",
+   "en": "However elegant a theory may be, nature has no obligation to be elegant.",
+   "bytes": 50112
+  },
+  {
+   "line": 5,
+   "file": "day13-line005.mp3",
+   "sentence_id": "c1-day13-s05",
+   "en": "Not until we admit the limits of our knowledge does real learning begin.",
+   "bytes": 44736
+  },
+  {
+   "line": 6,
+   "file": "day13-line006.mp3",
+   "sentence_id": "c1-day13-s06",
+   "en": "The map, as the old saying goes, is not the territory; a model is not the world itself.",
+   "bytes": 57216
+  },
+  {
+   "line": 7,
+   "file": "day13-line007.mp3",
+   "sentence_id": "c1-day13-s07",
+   "en": "It is estimated that we understand less than five percent of the universe we live in.",
+   "bytes": 51840
+  },
+  {
+   "line": 8,
+   "file": "day13-line008.mp3",
+   "sentence_id": "c1-day13-s08",
+   "en": "What the experiment ruled out was not the theory itself, but one of its many possible versions.",
+   "bytes": 53568
+  },
+  {
+   "line": 9,
+   "file": "day13-line009.mp3",
+   "sentence_id": "c1-day13-s09",
+   "en": "Little does the public hear about the hundred failed attempts behind every successful result.",
+   "bytes": 58752
+  },
+  {
+   "line": 10,
+   "file": "day13-line010.mp3",
+   "sentence_id": "c1-day13-s10",
+   "en": "Rarely is 'the science says' the end of a conversation; it should be the beginning of a better one.",
+   "bytes": 59520
+  },
+  {
+   "line": 11,
+   "file": "day13-line011.mp3",
+   "sentence_id": "c1-day13-s11",
+   "en": "What the scientist admits at the conference and what the press release claims are often two different findings.",
+   "bytes": 57216
+  },
+  {
+   "line": 12,
+   "file": "day13-line012.mp3",
+   "sentence_id": "c1-day13-s12",
+   "en": "It is precisely because every result may be wrong that science, unlike certainty, moves forward.",
+   "bytes": 61440
+  },
+  {
+   "line": 13,
+   "file": "day13-line013.mp3",
+   "sentence_id": "c1-day13-s13",
+   "en": "Were we to fund only research with guaranteed results, we would fund no real research at all.",
+   "bytes": 55872
+  },
+  {
+   "line": 14,
+   "file": "day13-line014.mp3",
+   "sentence_id": "c1-day13-s14",
+   "en": "Not until a theory makes a prediction that could prove it wrong does it deserve the name of science.",
+   "bytes": 58368
+  },
+  {
+   "line": 15,
+   "file": "day13-line015.mp3",
+   "sentence_id": "c1-day13-s15",
+   "en": "However impressive the machinery, a measurement is only as honest as the person reading it.",
+   "bytes": 56640
+  }
+ ]
+}
