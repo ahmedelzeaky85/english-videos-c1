@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 8,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day08-line001.mp3",
+   "sentence_id": "c1-day08-s01",
+   "en": "Calling the hurricane 'a bit of wind' is the kind of understatement the British have turned into an art.",
+   "bytes": 60672
+  },
+  {
+   "line": 2,
+   "file": "day08-line002.mp3",
+   "sentence_id": "c1-day08-s02",
+   "en": "What the reviewer called 'not entirely successful' was, by any honest measure, a complete disaster.",
+   "bytes": 67392
+  },
+  {
+   "line": 3,
+   "file": "day08-line003.mp3",
+   "sentence_id": "c1-day08-s03",
+   "en": "It is ironic that the safety inspector, of all people, was the one who forgot to wear a helmet.",
+   "bytes": 54720
+  },
+  {
+   "line": 4,
+   "file": "day08-line004.mp3",
+   "sentence_id": "c1-day08-s04",
+   "en": "Were the delay any longer, we would have missed not only the train but the entire decade.",
+   "bytes": 52800
+  },
+  {
+   "line": 5,
+   "file": "day08-line005.mp3",
+   "sentence_id": "c1-day08-s05",
+   "en": "The repair, which cost me a fortune, has left the car in what one might generously call its previous condition.",
+   "bytes": 67584
+  },
+  {
+   "line": 6,
+   "file": "day08-line006.mp3",
+   "sentence_id": "c1-day08-s06",
+   "en": "Not until you have waited four hours for a five-minute appointment do you learn the true meaning of 'shortly'.",
+   "bytes": 67968
+  },
+  {
+   "line": 7,
+   "file": "day08-line007.mp3",
+   "sentence_id": "c1-day08-s07",
+   "en": "He is not the most punctual of colleagues, which is a polite way of saying we have stopped inviting him to breakfast meetings.",
+   "bytes": 68160
+  },
+  {
+   "line": 8,
+   "file": "day08-line008.mp3",
+   "sentence_id": "c1-day08-s08",
+   "en": "However 'minor' the error may have seemed, it managed to delete ten years of records in a single afternoon.",
+   "bytes": 68544
+  },
+  {
+   "line": 9,
+   "file": "day08-line009.mp3",
+   "sentence_id": "c1-day08-s09",
+   "en": "It would be an understatement to say the guests were surprised; several of them are still talking about it.",
+   "bytes": 60288
+  },
+  {
+   "line": 10,
+   "file": "day08-line010.mp3",
+   "sentence_id": "c1-day08-s10",
+   "en": "Rarely has 'we need to talk' preceded good news.",
+   "bytes": 34944
+  },
+  {
+   "line": 11,
+   "file": "day08-line011.mp3",
+   "sentence_id": "c1-day08-s11",
+   "en": "The instructions, if one can call a single blurry photograph 'instructions', left us more confused than before.",
+   "bytes": 62784
+  },
+  {
+   "line": 12,
+   "file": "day08-line012.mp3",
+   "sentence_id": "c1-day08-s12",
+   "en": "It is mildly ironic that the fire station burned down while the firefighters were giving a lecture on fire safety.",
+   "bytes": 65664
+  },
+  {
+   "line": 13,
+   "file": "day08-line013.mp3",
+   "sentence_id": "c1-day08-s13",
+   "en": "What he described as 'a small misunderstanding' kept two departments at war for an entire year.",
+   "bytes": 60288
+  },
+  {
+   "line": 14,
+   "file": "day08-line014.mp3",
+   "sentence_id": "c1-day08-s14",
+   "en": "Only three people attended the meeting, which the organizer called 'an intimate gathering of key decision-makers'.",
+   "bytes": 59136
+  },
+  {
+   "line": 15,
+   "file": "day08-line015.mp3",
+   "sentence_id": "c1-day08-s15",
+   "en": "Were his 'five minutes' any longer, they would need their own time zone.",
+   "bytes": 46080
+  }
+ ]
+}
