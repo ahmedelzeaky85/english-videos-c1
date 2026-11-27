@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 26,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day26-line001.mp3",
+   "sentence_id": "c1-day26-s01",
+   "en": "What the reader owes you is nothing; every sentence must earn the reading of the next.",
+   "bytes": 52416
+  },
+  {
+   "line": 2,
+   "file": "day26-line002.mp3",
+   "sentence_id": "c1-day26-s02",
+   "en": "It is not enough to be right; you must be read.",
+   "bytes": 32064
+  },
+  {
+   "line": 3,
+   "file": "day26-line003.mp3",
+   "sentence_id": "c1-day26-s03",
+   "en": "Were your strongest argument placed at the end, few readers would ever reach it.",
+   "bytes": 46080
+  },
+  {
+   "line": 4,
+   "file": "day26-line004.mp3",
+   "sentence_id": "c1-day26-s04",
+   "en": "However noble your cause, a boring opening will bury it before the second paragraph.",
+   "bytes": 57216
+  },
+  {
+   "line": 5,
+   "file": "day26-line005.mp3",
+   "sentence_id": "c1-day26-s05",
+   "en": "Not until you have written for a hostile reader have you truly written persuasively.",
+   "bytes": 47616
+  },
+  {
+   "line": 6,
+   "file": "day26-line006.mp3",
+   "sentence_id": "c1-day26-s06",
+   "en": "It is the example, not the adjective, that persuades; show the reader one family, not a thousand statistics.",
+   "bytes": 69312
+  },
+  {
+   "line": 7,
+   "file": "day26-line007.mp3",
+   "sentence_id": "c1-day26-s07",
+   "en": "What the editor deleted, to the writer's horror, were all the sentences the writer loved most.",
+   "bytes": 58560
+  },
+  {
+   "line": 8,
+   "file": "day26-line008.mp3",
+   "sentence_id": "c1-day26-s08",
+   "en": "The letter moved the minister, who read it twice, and then, to everyone's astonishment, acted on it.",
+   "bytes": 66624
+  },
+  {
+   "line": 9,
+   "file": "day26-line009.mp3",
+   "sentence_id": "c1-day26-s09",
+   "en": "Little persuades so quietly as admitting the strength of the other side before you answer it.",
+   "bytes": 52800
+  },
+  {
+   "line": 10,
+   "file": "day26-line010.mp3",
+   "sentence_id": "c1-day26-s10",
+   "en": "Rarely does shouting convince the reader; the quiet, well-built sentence does.",
+   "bytes": 55104
+  },
+  {
+   "line": 11,
+   "file": "day26-line011.mp3",
+   "sentence_id": "c1-day26-s11",
+   "en": "What the writer cut in the fifth draft was everything the first draft had been so proud of.",
+   "bytes": 58560
+  },
+  {
+   "line": 12,
+   "file": "day26-line012.mp3",
+   "sentence_id": "c1-day26-s12",
+   "en": "It is the verb, not the adverb, that carries the weight; 'she sprinted' beats 'she ran very quickly'.",
+   "bytes": 67584
+  },
+  {
+   "line": 13,
+   "file": "day26-line013.mp3",
+   "sentence_id": "c1-day26-s13",
+   "en": "Were every sentence forced to justify its place, most pages would shrink by half and improve by double.",
+   "bytes": 69696
+  },
+  {
+   "line": 14,
+   "file": "day26-line014.mp3",
+   "sentence_id": "c1-day26-s14",
+   "en": "Not until the statistics were replaced by one woman's name did the readers begin to care.",
+   "bytes": 51264
+  },
+  {
+   "line": 15,
+   "file": "day26-line015.mp3",
+   "sentence_id": "c1-day26-s15",
+   "en": "However strong your evidence, present it as a lecture and the reader will defend the opposite view.",
+   "bytes": 53568
+  }
+ ]
+}
