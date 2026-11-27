@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 1,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day01-line001.mp3",
+   "sentence_id": "c1-day01-s01",
+   "en": "What she did not say in the meeting spoke far louder than anything she actually said.",
+   "bytes": 52416
+  },
+  {
+   "line": 2,
+   "file": "day01-line002.mp3",
+   "sentence_id": "c1-day01-s02",
+   "en": "It would appear that his apology owed more to the cameras than to any genuine regret.",
+   "bytes": 50304
+  },
+  {
+   "line": 3,
+   "file": "day01-line003.mp3",
+   "sentence_id": "c1-day01-s03",
+   "en": "Arguably, the most important part of any message is the part the writer chose to leave out.",
+   "bytes": 55104
+  },
+  {
+   "line": 4,
+   "file": "day01-line004.mp3",
+   "sentence_id": "c1-day01-s04",
+   "en": "He said the plan was interesting, which, coming from him, is usually a polite way of saying no.",
+   "bytes": 56448
+  },
+  {
+   "line": 5,
+   "file": "day01-line005.mp3",
+   "sentence_id": "c1-day01-s05",
+   "en": "Not until you compare the two versions of the story do you notice how carefully the facts were arranged.",
+   "bytes": 54336
+  },
+  {
+   "line": 6,
+   "file": "day01-line006.mp3",
+   "sentence_id": "c1-day01-s06",
+   "en": "Were her criticism any sharper, it would have ended the discussion on the spot.",
+   "bytes": 45120
+  },
+  {
+   "line": 7,
+   "file": "day01-line007.mp3",
+   "sentence_id": "c1-day01-s07",
+   "en": "The report is careful never to accuse anyone directly, yet no reader can miss its meaning.",
+   "bytes": 57216
+  },
+  {
+   "line": 8,
+   "file": "day01-line008.mp3",
+   "sentence_id": "c1-day01-s08",
+   "en": "It is one thing to say you agree, and quite another to mean it.",
+   "bytes": 41856
+  },
+  {
+   "line": 9,
+   "file": "day01-line009.mp3",
+   "sentence_id": "c1-day01-s09",
+   "en": "Little did the audience realize that his praise was, in fact, the sharpest criticism of all.",
+   "bytes": 64320
+  },
+  {
+   "line": 10,
+   "file": "day01-line010.mp3",
+   "sentence_id": "c1-day01-s10",
+   "en": "Rather than refuse the invitation outright, he said he would think about it, which everyone understood.",
+   "bytes": 58368
+  },
+  {
+   "line": 11,
+   "file": "day01-line011.mp3",
+   "sentence_id": "c1-day01-s11",
+   "en": "Between the lines of his cheerful email lay a request he could not bring himself to make openly.",
+   "bytes": 57600
+  },
+  {
+   "line": 12,
+   "file": "day01-line012.mp3",
+   "sentence_id": "c1-day01-s12",
+   "en": "Her silence, unusual in someone so talkative, told the committee more than a long speech could have.",
+   "bytes": 62208
+  },
+  {
+   "line": 13,
+   "file": "day01-line013.mp3",
+   "sentence_id": "c1-day01-s13",
+   "en": "It is worth noting what the advertisement shows so proudly and what it carefully avoids mentioning.",
+   "bytes": 59136
+  },
+  {
+   "line": 14,
+   "file": "day01-line014.mp3",
+   "sentence_id": "c1-day01-s14",
+   "en": "When he said he would take the matter under advisement, everyone in the room heard the refusal he avoided voicing.",
+   "bytes": 56640
+  },
+  {
+   "line": 15,
+   "file": "day01-line015.mp3",
+   "sentence_id": "c1-day01-s15",
+   "en": "The compliment was so carefully worded that it took her a full day to realize it was an insult.",
+   "bytes": 58752
+  }
+ ]
+}
