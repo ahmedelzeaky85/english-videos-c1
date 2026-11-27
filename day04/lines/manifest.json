@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 4,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day04-line001.mp3",
+   "sentence_id": "c1-day04-s01",
+   "en": "What makes idioms so difficult is that their meaning rarely has anything to do with their words.",
+   "bytes": 54528
+  },
+  {
+   "line": 2,
+   "file": "day04-line002.mp3",
+   "sentence_id": "c1-day04-s02",
+   "en": "It is no use crying over spilled milk; what matters now is how we fix the situation.",
+   "bytes": 58944
+  },
+  {
+   "line": 3,
+   "file": "day04-line003.mp3",
+   "sentence_id": "c1-day04-s03",
+   "en": "Were I in your shoes, I would think twice before burning any bridges with the old team.",
+   "bytes": 50880
+  },
+  {
+   "line": 4,
+   "file": "day04-line004.mp3",
+   "sentence_id": "c1-day04-s04",
+   "en": "The plan seemed perfect on paper, but in practice it fell apart at the first sign of trouble.",
+   "bytes": 58752
+  },
+  {
+   "line": 5,
+   "file": "day04-line005.mp3",
+   "sentence_id": "c1-day04-s05",
+   "en": "Not until he was offered the job did he realize he had been sitting on the fence for months.",
+   "bytes": 49920
+  },
+  {
+   "line": 6,
+   "file": "day04-line006.mp3",
+   "sentence_id": "c1-day04-s06",
+   "en": "However busy she is, she always finds time to read, which shows where her heart really lies.",
+   "bytes": 55104
+  },
+  {
+   "line": 7,
+   "file": "day04-line007.mp3",
+   "sentence_id": "c1-day04-s07",
+   "en": "It is often the quiet employees who carry the team, though they rarely blow their own trumpet.",
+   "bytes": 55680
+  },
+  {
+   "line": 8,
+   "file": "day04-line008.mp3",
+   "sentence_id": "c1-day04-s08",
+   "en": "Little did we know that the quiet new colleague would turn out to be a blessing in disguise.",
+   "bytes": 48192
+  },
+  {
+   "line": 9,
+   "file": "day04-line009.mp3",
+   "sentence_id": "c1-day04-s09",
+   "en": "To be honest, the meeting was a waste of time; we spent an hour going around in circles.",
+   "bytes": 53760
+  },
+  {
+   "line": 10,
+   "file": "day04-line010.mp3",
+   "sentence_id": "c1-day04-s10",
+   "en": "Rarely does anyone hit the nail on the head as precisely as she did in that discussion.",
+   "bytes": 54528
+  },
+  {
+   "line": 11,
+   "file": "day04-line011.mp3",
+   "sentence_id": "c1-day04-s11",
+   "en": "Having invested so much already, they refused to pull out, which is a classic case of throwing good money after bad.",
+   "bytes": 72192
+  },
+  {
+   "line": 12,
+   "file": "day04-line012.mp3",
+   "sentence_id": "c1-day04-s12",
+   "en": "He tends to beat around the bush for an hour before he gets to the point, if he ever does.",
+   "bytes": 56832
+  },
+  {
+   "line": 13,
+   "file": "day04-line013.mp3",
+   "sentence_id": "c1-day04-s13",
+   "en": "When the truth finally came out, it turned out we had all been barking up the wrong tree.",
+   "bytes": 51840
+  },
+  {
+   "line": 14,
+   "file": "day04-line014.mp3",
+   "sentence_id": "c1-day04-s14",
+   "en": "It is pointless to flog a dead horse; the decision has been made and no argument will change it.",
+   "bytes": 57024
+  },
+  {
+   "line": 15,
+   "file": "day04-line015.mp3",
+   "sentence_id": "c1-day04-s15",
+   "en": "Were the two partners to bury the hatchet, the company would benefit enormously; as it stands, both are cutting off their nose to spite their face.",
+   "bytes": 82752
+  }
+ ]
+}
