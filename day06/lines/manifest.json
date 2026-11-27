@@ -1,0 +1,188 @@
+{
+ "level": "C1",
+ "day": 6,
+ "count": 30,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day06-line001.mp3",
+   "en": "Hi Omar! You look puzzled. What is on your mind?",
+   "bytes": 33984
+  },
+  {
+   "line": 2,
+   "file": "day06-line002.mp3",
+   "en": "Hi Sara. My manager wrote that my proposal was interesting, which, coming from him, is usually a polite way of saying no.",
+   "bytes": 81024
+  },
+  {
+   "line": 3,
+   "file": "day06-line003.mp3",
+   "en": "What he did not say in that email probably speaks louder than anything he actually said.",
+   "bytes": 51648
+  },
+  {
+   "line": 4,
+   "file": "day06-line004.mp3",
+   "en": "Exactly. It is one thing to say you agree, and quite another to mean it.",
+   "bytes": 53952
+  },
+  {
+   "line": 5,
+   "file": "day06-line005.mp3",
+   "en": "So how will you reply?",
+   "bytes": 20544
+  },
+  {
+   "line": 6,
+   "file": "day06-line006.mp3",
+   "en": "That is my problem. The reply must be formal, and I only know how to write to friends.",
+   "bytes": 56448
+  },
+  {
+   "line": 7,
+   "file": "day06-line007.mp3",
+   "en": "However brilliant your idea may be, presenting it in the wrong register can kill it before anyone listens.",
+   "bytes": 64512
+  },
+  {
+   "line": 8,
+   "file": "day06-line008.mp3",
+   "en": "True. Were the letter written to a friend rather than a manager, its tone would be entirely different.",
+   "bytes": 58752
+  },
+  {
+   "line": 9,
+   "file": "day06-line009.mp3",
+   "en": "Start with something careful. It would seem that the data point in one direction, though they are far from conclusive.",
+   "bytes": 70464
+  },
+  {
+   "line": 10,
+   "file": "day06-line010.mp3",
+   "en": "Good. And I should add that further studies are needed before any firm conclusion.",
+   "bytes": 53568
+  },
+  {
+   "line": 11,
+   "file": "day06-line011.mp3",
+   "en": "Now you sound like a scientist. What cautious writers understand is that a well-placed 'perhaps' can be more persuasive than a bold claim.",
+   "bytes": 79872
+  },
+  {
+   "line": 12,
+   "file": "day06-line012.mp3",
+   "en": "My old teacher never hedged. He tended to overstate his case, which is why his otherwise good arguments were often dismissed.",
+   "bytes": 84288
+  },
+  {
+   "line": 13,
+   "file": "day06-line013.mp3",
+   "en": "Speaking of your old teacher, is he the one who only spoke in idioms?",
+   "bytes": 47808
+  },
+  {
+   "line": 14,
+   "file": "day06-line014.mp3",
+   "en": "The very one. He always said it is no use crying over spilled milk; what matters is how we fix the situation.",
+   "bytes": 73728
+  },
+  {
+   "line": 15,
+   "file": "day06-line015.mp3",
+   "en": "What makes idioms so difficult is that their meaning rarely has anything to do with their words.",
+   "bytes": 54528
+  },
+  {
+   "line": 16,
+   "file": "day06-line016.mp3",
+   "en": "He told me once: were I in your shoes, I would think twice before burning any bridges.",
+   "bytes": 59712
+  },
+  {
+   "line": 17,
+   "file": "day06-line017.mp3",
+   "en": "Wise advice. And how is the debate club going, by the way?",
+   "bytes": 34752
+  },
+  {
+   "line": 18,
+   "file": "day06-line018.mp3",
+   "en": "Hard. What distinguishes a strong argument from a loud one is the quality of its evidence, not its volume.",
+   "bytes": 71808
+  },
+  {
+   "line": 19,
+   "file": "day06-line019.mp3",
+   "en": "Some people never learn that. It is a common mistake to attack the person instead of the argument.",
+   "bytes": 57024
+  },
+  {
+   "line": 20,
+   "file": "day06-line020.mp3",
+   "en": "Admittedly, my opponent's plan had its strengths; nevertheless, it ignored the single most important risk.",
+   "bytes": 67968
+  },
+  {
+   "line": 21,
+   "file": "day06-line021.mp3",
+   "en": "Not until both sides agree on the facts can any real debate about solutions begin.",
+   "bytes": 53952
+  },
+  {
+   "line": 22,
+   "file": "day06-line022.mp3",
+   "en": "However appealing a slogan may sound, it is no substitute for a well-reasoned policy.",
+   "bytes": 57408
+  },
+  {
+   "line": 23,
+   "file": "day06-line023.mp3",
+   "en": "You sound ready for the final round.",
+   "bytes": 26112
+  },
+  {
+   "line": 24,
+   "file": "day06-line024.mp3",
+   "en": "I hope so. To claim that technology alone will solve our problems is to misunderstand what the problems are.",
+   "bytes": 77184
+  },
+  {
+   "line": 25,
+   "file": "day06-line025.mp3",
+   "en": "That is a strong closing line. Rarely does anyone win a debate by shouting; they simply lose the audience.",
+   "bytes": 64128
+  },
+  {
+   "line": 26,
+   "file": "day06-line026.mp3",
+   "en": "And if I lose, at least I will not cry over spilled milk.",
+   "bytes": 41472
+  },
+  {
+   "line": 27,
+   "file": "day06-line027.mp3",
+   "en": "That is the spirit. Now go and write that formal reply.",
+   "bytes": 35328
+  },
+  {
+   "line": 28,
+   "file": "day06-line028.mp3",
+   "en": "Should you require my best formal English, you will find it in your inbox tonight.",
+   "bytes": 47424
+  },
+  {
+   "line": 29,
+   "file": "day06-line029.mp3",
+   "en": "Was that a joke in formal register? I am impressed!",
+   "bytes": 37248
+  },
+  {
+   "line": 30,
+   "file": "day06-line030.mp3",
+   "en": "Not until you have written the same message in three different styles do you understand what register really means.",
+   "bytes": 70464
+  }
+ ]
+}
