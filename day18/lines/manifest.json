@@ -1,0 +1,188 @@
+{
+ "level": "C1",
+ "day": 18,
+ "count": 30,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day18-line001.mp3",
+   "en": "Hi Omar! You said you had a strange week. What happened?",
+   "bytes": 38208
+  },
+  {
+   "line": 2,
+   "file": "day18-line002.mp3",
+   "en": "Hi Sara. I read the same news story in three languages, and not until then did I see how much of the news is framing.",
+   "bytes": 77568
+  },
+  {
+   "line": 3,
+   "file": "day18-line003.mp3",
+   "en": "What a headline chooses to shout and what it chooses to whisper tell you more than the story itself.",
+   "bytes": 58752
+  },
+  {
+   "line": 4,
+   "file": "day18-line004.mp3",
+   "en": "One channel called the protest 'unrest', another called it 'a movement'. Were the same event reported by two rival channels, you would hardly know it was the same event.",
+   "bytes": 104064
+  },
+  {
+   "line": 5,
+   "file": "day18-line005.mp3",
+   "en": "It is not only what the news reports that shapes opinion, but what it quietly leaves out.",
+   "bytes": 55872
+  },
+  {
+   "line": 6,
+   "file": "day18-line006.mp3",
+   "en": "And what the algorithm shows you is not the world; it is the world most likely to keep you watching.",
+   "bytes": 65472
+  },
+  {
+   "line": 7,
+   "file": "day18-line007.mp3",
+   "en": "This is why I started reading science news instead. At least scientists admit doubt.",
+   "bytes": 51072
+  },
+  {
+   "line": 8,
+   "file": "day18-line008.mp3",
+   "en": "What separates science from opinion is the willingness to say 'we do not know yet'.",
+   "bytes": 55104
+  },
+  {
+   "line": 9,
+   "file": "day18-line009.mp3",
+   "en": "It is a strength, not a weakness, that every scientific claim carries its own margin of doubt.",
+   "bytes": 59712
+  },
+  {
+   "line": 10,
+   "file": "day18-line010.mp3",
+   "en": "However elegant a theory may be, nature has no obligation to be elegant.",
+   "bytes": 47232
+  },
+  {
+   "line": 11,
+   "file": "day18-line011.mp3",
+   "en": "Speaking of big ideas, I have been reading philosophy again.",
+   "bytes": 33408
+  },
+  {
+   "line": 12,
+   "file": "day18-line012.mp3",
+   "en": "What makes a question philosophical is not that it has no answer, but that every answer opens ten more.",
+   "bytes": 64512
+  },
+  {
+   "line": 13,
+   "file": "day18-line013.mp3",
+   "en": "It is one thing to know the price of everything, and quite another to know the value of anything.",
+   "bytes": 53184
+  },
+  {
+   "line": 14,
+   "file": "day18-line014.mp3",
+   "en": "Not until we face the possibility that we are wrong do we truly begin to think.",
+   "bytes": 54528
+  },
+  {
+   "line": 15,
+   "file": "day18-line015.mp3",
+   "en": "It is argued that we do not see the world as it is, but as we are.",
+   "bytes": 46464
+  },
+  {
+   "line": 16,
+   "file": "day18-line016.mp3",
+   "en": "That would explain my uncle. But some questions are not philosophical at all, just human.",
+   "bytes": 61824
+  },
+  {
+   "line": 17,
+   "file": "day18-line017.mp3",
+   "en": "Like?",
+   "bytes": 9024
+  },
+  {
+   "line": 18,
+   "file": "day18-line018.mp3",
+   "en": "Like my friend who lost his father. Rarely does advice comfort the grieving; presence comforts them far more than words.",
+   "bytes": 75264
+  },
+  {
+   "line": 19,
+   "file": "day18-line019.mp3",
+   "en": "What empathy requires is not that we feel the same pain, but that we believe it is real.",
+   "bytes": 60288
+  },
+  {
+   "line": 20,
+   "file": "day18-line020.mp3",
+   "en": "Not until someone has sat with us in silence, without advice, do we feel truly heard.",
+   "bytes": 61824
+  },
+  {
+   "line": 21,
+   "file": "day18-line021.mp3",
+   "en": "It is said that courage is not the absence of fear, but the decision that something else matters more.",
+   "bytes": 62784
+  },
+  {
+   "line": 22,
+   "file": "day18-line022.mp3",
+   "en": "He told me he feels split between two countries, even though he has never left this one.",
+   "bytes": 52032
+  },
+  {
+   "line": 23,
+   "file": "day18-line023.mp3",
+   "en": "What we call 'normal' is usually nothing more than the habits of the people we grew up around.",
+   "bytes": 50304
+  },
+  {
+   "line": 24,
+   "file": "day18-line024.mp3",
+   "en": "However global the world becomes, people still dream in the language of their childhood.",
+   "bytes": 53568
+  },
+  {
+   "line": 25,
+   "file": "day18-line025.mp3",
+   "en": "Not until you live abroad do you discover which parts of you are you, and which are your country.",
+   "bytes": 60672
+  },
+  {
+   "line": 26,
+   "file": "day18-line026.mp3",
+   "en": "What the immigrant packs last and never unpacks is a way of being polite.",
+   "bytes": 52224
+  },
+  {
+   "line": 27,
+   "file": "day18-line027.mp3",
+   "en": "That might be the most beautiful sentence we have learned.",
+   "bytes": 35904
+  },
+  {
+   "line": 28,
+   "file": "day18-line028.mp3",
+   "en": "Little do we know of the storms inside the people we pass every day.",
+   "bytes": 44352
+  },
+  {
+   "line": 29,
+   "file": "day18-line029.mp3",
+   "en": "So, after your week of news and philosophy and grief, what did you conclude?",
+   "bytes": 54528
+  },
+  {
+   "line": 30,
+   "file": "day18-line030.mp3",
+   "en": "That the camera never lies, but it certainly chooses where to look. And so do we.",
+   "bytes": 59328
+  }
+ ]
+}
