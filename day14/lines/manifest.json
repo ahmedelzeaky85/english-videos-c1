@@ -1,0 +1,113 @@
+{
+ "level": "c1",
+ "day": 14,
+ "count": 15,
+ "format": "mp3 mono 24kHz 64kbps",
+ "lines": [
+  {
+   "line": 1,
+   "file": "day14-line001.mp3",
+   "sentence_id": "c1-day14-s01",
+   "en": "What makes a question philosophical is not that it has no answer, but that every answer opens ten more.",
+   "bytes": 63552
+  },
+  {
+   "line": 2,
+   "file": "day14-line002.mp3",
+   "sentence_id": "c1-day14-s02",
+   "en": "It is one thing to know the price of everything, and quite another to know the value of anything.",
+   "bytes": 56832
+  },
+  {
+   "line": 3,
+   "file": "day14-line003.mp3",
+   "sentence_id": "c1-day14-s03",
+   "en": "Were we certain that our choices are fully free, the question of responsibility would never arise.",
+   "bytes": 61248
+  },
+  {
+   "line": 4,
+   "file": "day14-line004.mp3",
+   "sentence_id": "c1-day14-s04",
+   "en": "However much we learn about the brain, the mystery of what it feels like to be someone remains.",
+   "bytes": 55680
+  },
+  {
+   "line": 5,
+   "file": "day14-line005.mp3",
+   "sentence_id": "c1-day14-s05",
+   "en": "Not until we face the possibility that we are wrong do we truly begin to think.",
+   "bytes": 48576
+  },
+  {
+   "line": 6,
+   "file": "day14-line006.mp3",
+   "sentence_id": "c1-day14-s06",
+   "en": "The unexamined life, said Socrates, is not worth living; but the over-examined life may be no easier.",
+   "bytes": 76032
+  },
+  {
+   "line": 7,
+   "file": "day14-line007.mp3",
+   "sentence_id": "c1-day14-s07",
+   "en": "It is argued that we do not see the world as it is, but as we are.",
+   "bytes": 49152
+  },
+  {
+   "line": 8,
+   "file": "day14-line008.mp3",
+   "sentence_id": "c1-day14-s08",
+   "en": "What the prisoner in the cave mistakes for reality is only the shadow of the world outside.",
+   "bytes": 50112
+  },
+  {
+   "line": 9,
+   "file": "day14-line009.mp3",
+   "sentence_id": "c1-day14-s09",
+   "en": "Little can be said for certain about justice, except that everyone demands it and few can define it.",
+   "bytes": 59328
+  },
+  {
+   "line": 10,
+   "file": "day14-line010.mp3",
+   "sentence_id": "c1-day14-s10",
+   "en": "Rarely does philosophy give us answers; what it gives us are better questions.",
+   "bytes": 43584
+  },
+  {
+   "line": 11,
+   "file": "day14-line011.mp3",
+   "sentence_id": "c1-day14-s11",
+   "en": "What the question 'why is there something rather than nothing' lacks in answers, it makes up for in depth.",
+   "bytes": 62592
+  },
+  {
+   "line": 12,
+   "file": "day14-line012.mp3",
+   "sentence_id": "c1-day14-s12",
+   "en": "It is strange that we demand meaning from the universe, yet never ask who told us it should have one.",
+   "bytes": 59712
+  },
+  {
+   "line": 13,
+   "file": "day14-line013.mp3",
+   "sentence_id": "c1-day14-s13",
+   "en": "Were our memories to be copied into another body, the question of which one is really 'us' would have no clean answer.",
+   "bytes": 69888
+  },
+  {
+   "line": 14,
+   "file": "day14-line014.mp3",
+   "sentence_id": "c1-day14-s14",
+   "en": "Not until we imagine being on the other side of our own rules do we test whether they are just.",
+   "bytes": 53568
+  },
+  {
+   "line": 15,
+   "file": "day14-line015.mp3",
+   "sentence_id": "c1-day14-s15",
+   "en": "However free we feel, our choices are shaped by a thousand influences we never notice.",
+   "bytes": 61824
+  }
+ ]
+}
